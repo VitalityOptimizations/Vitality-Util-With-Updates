@@ -1,0 +1,3002 @@
+Get the most viral quotes from this transcript and show in a table format. 
+
+Column 1 is index starting from 1 
+Column 2 is a short and punchy Title 
+Column 3 is the quote. 
+
+Make it 2-3 sentences per quote 
+
+Give 100 quotes
+
+# tactiq.io free youtube transcript
+# Joe Rogan Experience #1080 - David Goggins
+# https://www.youtube.com/watch/5tSTk1083VY
+
+00:00:00.620 five four three two one
+00:00:06.710 boom and we're live thanks for doing
+00:00:09.210 this man I appreciate it
+00:00:10.110 hey thank you for having me I appreciate
+00:00:11.040 that he's the only guy I've ever had in
+00:00:13.049 the studio where when I showed up you
+00:00:14.639 were working out that's what I do mask
+00:00:17.609 my life that's my life it's pretty crazy
+00:00:19.920 though I mean how much time did you have
+00:00:21.240 when you got here I got here about an
+00:00:23.130 hour early oh yeah okay so I got here
+00:00:27.060 shirt off doing chin up hilarious I
+00:00:29.250 think if I camera out in time for you
+00:00:30.599 song I wanted to take some pictures well
+00:00:32.189 maybe next time
+00:00:32.940 next time well catch you after the show
+00:00:35.930 you are a guide that for a lot of people
+00:00:40.800 you sort of embody the idea of hardening
+00:00:45.570 your mind and figuring out a way to do
+00:00:50.340 things that most people think are
+00:00:51.780 impossible
+00:00:52.530 all right let's you've sort of become
+00:00:53.910 that guy over your life and you've
+00:00:56.610 become that guy for a lot of people
+00:00:57.930 including me online we've talked about
+00:01:00.000 you on the podcast a ton of times so
+00:01:02.460 having you in here has been it's very
+00:01:04.709 exciting to me I appreciate that thank
+00:01:06.479 you how'd you become that guy you know
+00:01:09.270 what I grew up not that guy yeah so a
+00:01:12.840 lot of people put a title on me they
+00:01:15.210 want to they see me now they see me now
+00:01:19.350 as the guy that with his shirt off who
+00:01:21.210 can do 4030 pull-ups in 17 hours you can
+00:01:23.970 run tours in five miles in 39 hours who
+00:01:27.060 can do all this crazy [ __ ] but what they
+00:01:29.159 don't understand is they don't
+00:01:30.299 understand the journey that it took me
+00:01:32.549 to get to this point and what got me to
+00:01:35.909 this point was I was just the opposite
+00:01:37.979 everything the day I was that guy who
+00:01:40.049 ran away from absolutely everything that
+00:01:43.619 I got in front of me but not many people
+00:01:45.869 knew that I had two people at the like
+00:01:49.350 the real me was like this very scared
+00:01:51.750 insecure stuttering got beat up by his
+00:01:54.899 dad all this kind of stuff and I built
+00:01:57.570 this fake person that walked around like
+00:01:59.909 my [ __ ] didn't stink you know you know
+00:02:02.729 that yeah so that was that's kind of how
+00:02:04.439 I did it and I do the process of time I
+00:02:07.560 realized that I was lying to myself and
+00:02:09.660 lying to people but that it's a
+00:02:11.610 fascinating journey though because
+00:02:13.400 you are that guy now Ryan you genuinely
+00:02:16.099 are legit badass right at one point in
+00:02:18.890 time you were a legit terrified person
+00:02:22.040 yes so what was the process like how did
+00:02:24.590 how did you step forth well it's a it's
+00:02:27.799 a long process right um I my dad beat
+00:02:32.120 the [ __ ] I mean was growing up we I was
+00:02:34.189 the first black baby born in this
+00:02:36.709 hospital called Millard Fillmore in
+00:02:38.569 Buffalo New York my dad owned skating
+00:02:41.209 rinks he owned bars he ran prostitutes
+00:02:43.340 from Canada to Buffalo New York my dad
+00:02:46.040 was a big-time pimp big-time anything
+00:02:48.349 bad about a person
+00:02:49.639 big-time hustler he was American you
+00:02:52.129 know that I'm with them Denzel
+00:02:53.510 Washington he was that but not that bad
+00:02:55.970 right yeah he wasn't that big but that's
+00:02:58.489 what it reminds me of he was that kind
+00:03:00.230 of guy and beat the [ __ ] out of me did
+00:03:03.439 she help you no I love my mom there was
+00:03:05.299 an instant one time when my mom got
+00:03:06.889 knocked out on top of stairs and they
+00:03:08.299 drug her down the stairs by her hair at
+00:03:10.609 six years old
+00:03:11.480 I'll never forget this in my mind I was
+00:03:15.079 always afraid my whole life I was afraid
+00:03:17.629 but I had this [ __ ] voice this this
+00:03:19.669 conscience that would always be battling
+00:03:22.400 me said hey you got to get up and do
+00:03:23.900 something I didn't want to do [ __ ] you
+00:03:26.359 know I was just afraid but I would that
+00:03:29.060 that voice would forced me to get up and
+00:03:30.949 my dad you know I try to beat him up
+00:03:32.780 whatever at six and I get my ass kicked
+00:03:33.980 so this went on for several years and I
+00:03:36.650 have a big time learning disability can
+00:03:38.269 my dad didn't believe in us going to
+00:03:39.500 school so my dad it was about the
+00:03:42.919 business the skating rink in the bar so
+00:03:45.500 this game you open about seven o'clock
+00:03:46.760 at night and this is when time I was
+00:03:48.829 able to walk so about five you know four
+00:03:51.290 or five six years old eight nine and I
+00:03:54.169 go to the skating rink it's ten o'clock
+00:03:55.970 at night and I worked the skating rink
+00:03:57.709 until 10:00 at night and then we would
+00:04:00.199 scrape the gum off the floors and we
+00:04:01.760 cleaned the whole skating rink up and
+00:04:03.260 then my dad at the office and my brother
+00:04:05.959 and myself asleep in the office and my
+00:04:07.639 mama go upstairs and worked the bar
+00:04:09.650 until three o'clock in the morning and
+00:04:11.299 then they cleaned the bar up so after
+00:04:14.090 all that [ __ ] was done with going to
+00:04:15.500 school really happened so when I went to
+00:04:18.228 school I was all kind of you know my
+00:04:20.839 learning disability I had social anxiety
+00:04:23.330 I was just a jacked up kid from living
+00:04:25.700 in this tour
+00:04:26.690 at home from the outside looking in we
+00:04:29.240 live in the all-white neighborhood and
+00:04:30.860 then we would travel to the ghetto of
+00:04:33.140 Buffalo New York with the skating rink
+00:04:34.580 was that so we you know we worked around
+00:04:37.040 mostly blacks and I lived around mostly
+00:04:39.770 White's but no one knew what was going
+00:04:41.990 on the house that on 201 Paradise Road
+00:04:44.120 yeah it's crazy but um my mom got
+00:04:47.600 courage to finally leave him when I was
+00:04:49.880 by 8 years old we moved to a small town
+00:04:51.710 in Brazil Indiana and that's when the
+00:04:54.320 real war started for me and Brazilian is
+00:04:56.810 a small town great people a lot of great
+00:04:58.820 people and I say that because like
+00:05:00.740 people get offended and I'm gonna get to
+00:05:03.680 the point where they get offended there
+00:05:05.480 was about maybe 10 black families at
+00:05:07.400 about 10,000 people in the town and in
+00:05:10.580 1995 the KKK marched in the 4th of July
+00:05:13.280 parade so this was a not every bar was
+00:05:16.820 racist there's a lot of good people some
+00:05:18.440 the best people I knew was there but
+00:05:19.430 there's also a lot of racism there so me
+00:05:21.860 being one of the few black kids net you
+00:05:24.050 know in the area you know it kind of
+00:05:26.090 haunts you I had stuff on my notebook
+00:05:27.890 you know [ __ ] we're gonna kill you on
+00:05:29.720 my Spanish notebook they had that on my
+00:05:32.150 car [ __ ] this is early 90s and so even
+00:05:36.980 though I sold it didn't hurt me
+00:05:38.480 it was jacking me up so all the
+00:05:40.220 insecurities I have when I was a kid
+00:05:41.570 with my father I moved into this area
+00:05:44.330 here and it just got worse and worse and
+00:05:47.180 worse and it [ __ ] haunted me and that
+00:05:50.090 voice that talked about it kept talking
+00:05:52.669 louder and louder and louder I was doing
+00:05:54.860 nothing about it and I decided to make
+00:05:57.590 moves and I cheated all through school
+00:06:00.620 and it's kind of humbling to talk with
+00:06:03.110 my stories sometimes in this um it's
+00:06:05.780 also embarrassing but it's real it's who
+00:06:08.720 the [ __ ] I am is what I am is what
+00:06:10.880 created me and copy from the fourth
+00:06:13.730 grade to the to my junior year in high
+00:06:15.770 school on every assignment and I want to
+00:06:19.160 get in the military I'm gonna join the
+00:06:20.480 airforce and the guy gave me an as vapp
+00:06:23.090 test as I could water down SAT and I
+00:06:25.669 couldn't copy on it because the guy
+00:06:27.140 beside me how to test a test B they got
+00:06:29.750 him I write he had test C so I looked
+00:06:31.640 the copy on this test and I couldn't
+00:06:32.810 copy on so I got like a 20 and I wanted
+00:06:35.000 to be an Air Force pararescueman it's
+00:06:37.130 guys that jump out of airplanes and save
+00:06:38.750 down pilots it's a
+00:06:39.930 it's a special operator in the Air Force
+00:06:41.160 and my squirt was so horribly low that
+00:06:44.759 is we take it again
+00:06:45.840 and he said hey I got an 18 the second
+00:06:49.410 time even worse I need to get a 50 out
+00:06:51.539 of a 99 and so a mom and I for a while
+00:06:55.229 we lived in the government subsidized
+00:06:56.580 apartments seven dollars a month and
+00:06:58.560 also food stamps and we slowly moved up
+00:07:01.380 to a $230 a month place but at the time
+00:07:04.350 you know we you know pretty poor but um
+00:07:06.949 my mom afforded enough money for me to
+00:07:09.240 go to see a tutor one one hour a week so
+00:07:13.199 for four hours a month it had six months
+00:07:15.030 to study from our last test I can only
+00:07:16.770 take the best you know the answer to
+00:07:18.030 test three times and I studied my ass
+00:07:22.020 off and passed it I got in the Air Force
+00:07:24.000 and realized there was more things in
+00:07:25.169 front of me I was afraid of water
+00:07:27.260 terrified the water and I've learned how
+00:07:30.750 to swim but what gets everybody in this
+00:07:33.090 training in all special ops training is
+00:07:35.010 the water confidence where they try to
+00:07:36.810 pretty much drowned your ass you know
+00:07:38.910 all of our lives we've been breathing
+00:07:40.229 and they take that from you and they
+00:07:43.080 want to see how comfortable you are in
+00:07:44.280 the water and there's a 1%
+00:07:46.010 african-americans in Special Operations
+00:07:48.330 and I didn't know anything about African
+00:07:50.610 like a lot of them are negative buoyant
+00:07:52.139 which I am because the bone density I
+00:07:54.949 struggled but I'm six weeks into the
+00:07:57.720 program there was about 25 guys left of
+00:07:59.760 about 150 I was there and I was never I
+00:08:03.389 didn't gonna sleep for six weeks of the
+00:08:04.830 program and I wanted to quit so badly
+00:08:08.130 but I quit everything in my life I
+00:08:09.570 copied through school I want to prove
+00:08:11.490 people wrong and so here I am in this
+00:08:14.250 Air Force program start to get a little
+00:08:16.020 more confidence but this water was
+00:08:17.940 kicking my ass
+00:08:18.720 and six weeks in the program the doctor
+00:08:21.030 gave me a blood test and must have
+00:08:23.010 sickle-cell sickle cell trait not the
+00:08:25.500 anemia but I still killed people but so
+00:08:28.380 they pulled me out training for a week
+00:08:29.639 and when you go from being very
+00:08:31.760 uncomfortable in that water situation
+00:08:33.990 and then now you're comfortable and I'm
+00:08:35.849 sitting back watching the guys drown I'm
+00:08:37.529 not you know I'm not part of the
+00:08:38.669 activities anymore for this week I don't
+00:08:41.250 want to get back in that damn water
+00:08:42.360 again so the fear overcame in all my
+00:08:45.060 insecurities for my dad from this small
+00:08:47.310 town from everything started coming back
+00:08:48.839 and even though no one knew how [ __ ]
+00:08:51.150 up I was kind of create this other
+00:08:52.650 person
+00:08:53.130 tough I live with this [ __ ] all time so
+00:08:56.760 mean I wouldn't go back in that water
+00:08:58.770 the doctor called me a backup I thought
+00:09:00.360 to get like a like a medical kick out of
+00:09:02.280 the military so no quitting for me they
+00:09:04.710 kicked me out so I can have some pride
+00:09:06.110 the doctor said no I'm kidding you know
+00:09:08.400 we could put you back in the training
+00:09:09.540 and I was like [ __ ] but after a week I'm
+00:09:13.320 like you know what I missed one week
+00:09:14.850 there's only three weeks left there's a
+00:09:16.950 good chance you know I could tough this
+00:09:18.420 [ __ ] out and go on but I went back to
+00:09:20.700 the CEO and the commanding officer of
+00:09:22.740 the program and the sergeant said hey
+00:09:25.170 you gotta start from day one because you
+00:09:27.690 missed you know that that week of
+00:09:29.340 training and I broke
+00:09:30.960 I broke I couldn't imagine going back
+00:09:34.140 through that again
+00:09:35.040 so I made up a lie and I said man
+00:09:38.250 there's sickle-cell things really
+00:09:39.240 scaring me it was the [ __ ] water it
+00:09:41.010 wasn't sickle cell and and I pretty much
+00:09:44.160 quit even though they gave me a medical
+00:09:45.960 and I quit so um from the age of 19 days
+00:09:51.870 of 22 I went into the job called tack
+00:09:54.420 pee where you control fast movers behind
+00:09:56.430 enemy lines cool job but there's no
+00:09:58.350 water I was afraid of water so I've
+00:10:00.270 avoided it and I gained 125 pounds in
+00:10:04.050 that time frame
+00:10:04.680 I went from 175 to almost 300 to 297 was
+00:10:08.040 my heaviest and I started finding things
+00:10:10.230 that was comfortable and the more things
+00:10:12.540 I found comfortable the more
+00:10:14.580 uncomfortable my mind was because that
+00:10:16.890 voice I was telling you about it always
+00:10:18.810 was there I was trying to avoid that
+00:10:20.910 conscience I wanted to be left alone
+00:10:23.910 from that conscience and it wouldn't
+00:10:25.350 leave me alone so I got out of the Air
+00:10:27.240 Force and I started working for a job
+00:10:29.580 called ecolab respray for cockroaches at
+00:10:32.250 24 and I'm spraying at different staking
+00:10:36.060 sheiks Red Lobster whatever from 11
+00:10:38.340 o'clock at night at 7 o'clock in the
+00:10:39.300 morning and what changed I came home and
+00:10:42.150 watch this Discovery Channel show class
+00:10:44.550 224 I came home from Steak N Shake I
+00:10:47.550 sprayed it down last get a big ol large
+00:10:49.380 42 ounce shake walk across the street
+00:10:51.630 and get a box of mini doughnuts from
+00:10:53.940 7-eleven you never drive home for 45
+00:10:57.240 minutes this big old fat guy who yeah I
+00:11:00.120 worked out but I was fat I didn't run
+00:11:03.180 didn't PT I just hit the gym so I'm
+00:11:06.540 driving
+00:11:06.960 home turn the TV on and what comes on
+00:11:09.150 Discovery Channel so and that's what
+00:11:11.340 everything changed for me I was taking a
+00:11:13.650 shower I walked out heard these guys and
+00:11:15.660 I watched the show and it made me
+00:11:18.000 reflect big-time on the piece of [ __ ]
+00:11:20.370 that I am and I'm exactly what people
+00:11:22.980 said I was going to be so so what was on
+00:11:25.650 this show that really struck home it was
+00:11:27.900 um I saw these guys going into water so
+00:11:30.630 I was terrified of it I can't even
+00:11:32.280 express have you ever had a big fear and
+00:11:34.860 I know a lot of fighters have fears and
+00:11:36.720 stuff like that but they get over them
+00:11:38.100 but all of us have these fears that you
+00:11:40.800 just don't want to [ __ ] face and um I
+00:11:43.710 have a lot of them had a lot of them and
+00:11:45.900 that's what created the person who's in
+00:11:47.580 front of today and we'll get into that
+00:11:49.970 but I'm just a scared [ __ ] is what I
+00:11:52.740 was and but I was watching these guys
+00:11:55.140 going through hell week class 2:24 and
+00:11:57.660 these guys ringing the bell quitting
+00:11:59.610 dropping their helmet down rolling out a
+00:12:01.590 lot of guys is leaving and it made me
+00:12:04.680 reflect on my fears my insecurities and
+00:12:08.220 I saw real men when I thought were real
+00:12:10.740 men who were staying who were overcoming
+00:12:13.560 adversity who were overcoming all these
+00:12:15.330 different things that I had blamed so
+00:12:17.640 many [ __ ] people in my life my dad my
+00:12:21.000 mom for not being there when I was 14
+00:12:23.520 years old my my mama's would get
+00:12:25.470 remarried to this great guy he got
+00:12:26.880 murdered and then I moved back to a
+00:12:29.280 small town in Brazil and and I everybody
+00:12:32.490 was a blame my learned disability my my
+00:12:35.220 skin color you know me being everything
+00:12:38.160 and so I sat there for a while and I was
+00:12:40.770 like man I gotta [ __ ] I got it
+00:12:43.170 no one's gonna [ __ ] come to help me
+00:12:44.750 no one's gonna [ __ ] come to help me
+00:12:46.830 his [ __ ] me against me period and I'm
+00:12:49.620 so I had to man up and I said first
+00:12:52.050 thing I started doing is facing every
+00:12:53.490 [ __ ] fear I have no matter what the
+00:12:55.650 [ __ ] it is man and these things would
+00:12:58.230 keep me up and that no one people who
+00:13:00.390 are here in this [ __ ] day they will
+00:13:01.560 never really understand and grasp when
+00:13:04.740 you face these things and so many things
+00:13:06.300 how they keep you up and haunts you at
+00:13:08.220 night I think there's a lot of people
+00:13:09.750 out there that know what you're talking
+00:13:10.800 about I mean and so that's what it did
+00:13:13.200 and I had two options to either be that
+00:13:18.300 300-pound guy who spray for cockroaches
+00:13:20.280 and
+00:13:20.640 thousand dollars a month and at 24 years
+00:13:24.030 old knowing we're not 50 [ __ ] years
+00:13:26.190 old I can reflect on this and think
+00:13:27.870 about what God never became or I can
+00:13:30.390 totally just sack it up and fail and
+00:13:33.660 fail and fail entire succeed so I
+00:13:36.840 started calling recruiters up I said
+00:13:38.430 we'll be a [ __ ] Navy SEAL and every
+00:13:41.250 recruiter so there's a weight and height
+00:13:42.660 so they weigh weight and height limit to
+00:13:45.120 get in the military and I was 6 foot 1
+00:13:47.790 and to 97 and I had prior service which
+00:13:50.910 was a big deal so I called all these
+00:13:52.890 recruiters up and all of them said hey
+00:13:54.210 how tall are you bla bla they got into
+00:13:55.980 conversation and see if I even qualified
+00:13:57.900 and by the time I got to my weight phone
+00:14:00.810 we were hanging up pretty much like hey
+00:14:02.100 you know what call somebody else you
+00:14:03.900 know try to get in the reserves so I
+00:14:05.850 tried to get in the reserves and I
+00:14:07.470 called this guy named Steven salad your
+00:14:08.790 recruiter up and he said hey come on in
+00:14:10.260 he saw me put me through the weight
+00:14:12.450 standard all the sort of stuff and to
+00:14:14.760 get into the class I had to get into how
+00:14:16.320 to lose 106 pounds in less than 3 months
+00:14:18.950 so I was like [ __ ] that I can't do that
+00:14:22.140 I grabbed my chocolate milkshake and
+00:14:23.850 went back to Ecolab I'm going back to
+00:14:25.710 work man this is my life
+00:14:27.360 so in this job you look you know you're
+00:14:30.660 looking for cockroach she's looking for
+00:14:31.920 rodents and stuff like that and this
+00:14:33.420 next morning or this next night I went
+00:14:35.940 to work and I hit the all-night
+00:14:38.640 cockroaches too much I hit the mother
+00:14:40.770 lode of cockroaches and this restaurant
+00:14:44.010 got full of cockroaches and rodents and
+00:14:46.110 everything else and I sat there and said
+00:14:48.420 this is my life I said this is my life
+00:14:50.880 you are exactly who the [ __ ] that this
+00:14:53.310 is it and I said this ain't gonna be it
+00:14:56.130 for me so in that restaurant I quit my
+00:15:00.090 job left my canister in that restaurant
+00:15:02.370 my spray canister got back in my ecolab
+00:15:05.040 truck and I went home and I started
+00:15:07.890 working out like somebody I was I became
+00:15:10.650 the most obsessed person on the planet
+00:15:12.960 Earth that was basically I had to invent
+00:15:18.060 a guy that didn't exist I had to invent
+00:15:21.000 a guy that can take any pain any
+00:15:22.380 suffering any kind of judgment be called
+00:15:25.620 [ __ ] be called whatever the [ __ ] in
+00:15:27.090 the world and be understanding the
+00:15:28.110 [ __ ] room and said go [ __ ] yourself I
+00:15:29.700 had it built the I had to build this
+00:15:31.290 callous mind and I built it to suffering
+00:15:34.410 I built it to downright [ __ ] just
+00:15:36.720 crushing myself if it was raining
+00:15:38.550 outside three o'clock in the [ __ ]
+00:15:39.690 morning feeling the first instinct is
+00:15:42.269 don't go out there and do [ __ ] my
+00:15:44.339 instinct was we gotta [ __ ] go out
+00:15:46.680 there anything that was [ __ ] horrible
+00:15:49.139 in my life that I would normally say no
+00:15:52.009 that was inhumane that most people I had
+00:15:55.319 to go do it and I started callous in my
+00:15:58.529 mind at this point in my life and I lost
+00:16:01.170 the weight I lost the weight and I went
+00:16:04.079 back to recruiter I got into that class
+00:16:05.610 and I went through three Navy sohail
+00:16:09.089 weeks in one year only God ever be in
+00:16:11.790 three hell weeks in one year after my
+00:16:13.050 knowledge the first one I didn't make it
+00:16:15.089 through the next two I did and that I
+00:16:18.600 just didn't stop anymore from there
+00:16:22.529 and I started realizing through this
+00:16:24.449 through this process that the [ __ ]
+00:16:28.290 mind is what you created and I started
+00:16:30.629 opening different doors that I didn't
+00:16:32.189 think we're even there they didn't think
+00:16:33.810 even existed and the more doors are
+00:16:35.819 opening up the more I start realizing
+00:16:37.350 that my potential is damn near endless
+00:16:39.769 and it changed my whole mindset so I
+00:16:43.470 went from David Goggins and I created
+00:16:45.000 Goggins and that journey is a priceless
+00:16:49.649 journey that is hard for me to explain
+00:16:51.360 to people because it sounds so quick and
+00:16:52.980 easy that guy's lost this weight and I
+00:16:54.779 went through three healthiest I went to
+00:16:56.430 Ranger school went to Delta Force Lexus
+00:16:57.959 whatever it is it was brutal it's a
+00:17:01.110 brutal journey every [ __ ] day and if
+00:17:03.029 ever less what are you happy
+00:17:04.439 if anybody knows my life story and I try
+00:17:07.260 to give you a just a snippet of it where
+00:17:09.689 I'm at two days in front of Joe Rogan
+00:17:11.250 telling you my life to get through what
+00:17:13.919 I became to get to where I'm at now
+00:17:16.339 there's nothing but pride I have for
+00:17:18.449 myself that I can't really I can't
+00:17:20.220 really show people because I have this
+00:17:22.020 face and a space that they see like are
+00:17:24.539 you happy what's wrong with you I'm
+00:17:26.459 driven I'm obsessed and that's what you
+00:17:29.460 see that's it people need to hear this
+00:17:32.640 story
+00:17:33.090 this is a this is an exciting story for
+00:17:35.370 people because there's a lot of people
+00:17:36.630 out there that feel trapped and they
+00:17:37.860 feel stuck and they feel like they can't
+00:17:39.539 do anything this is who they are you're
+00:17:41.940 a guy who felt that exact same way but
+00:17:44.640 figured out how to not be that person
+00:17:47.250 and be a person
+00:17:48.310 you would admire how did you what were
+00:17:50.920 the first steps like you had some slips
+00:17:53.350 before right because you you quit
+00:17:55.210 because of the water thing right but
+00:17:56.800 then when you went back the second time
+00:17:58.090 and you decide you're going to lose all
+00:17:59.260 that weight and you quit that job did
+00:18:01.690 did you was it just straight forward
+00:18:03.820 from there or whether there's some days
+00:18:05.230 where you just failed and then you
+00:18:07.300 picked it back up again so my first run
+00:18:09.820 when I decided to lose the weight I was
+00:18:11.380 like I said 297 I was about thirty two
+00:18:14.260 percent body fat and I went my idea was
+00:18:17.950 to run four miles for my first run I
+00:18:20.320 didn't know how bad it's gonna [ __ ]
+00:18:22.060 hurt me I used to run before I was fat
+00:18:23.800 and I was like [ __ ] it I can do this I
+00:18:25.300 ran a quarter mile and walked home I
+00:18:27.630 walked home and sat on my couch and
+00:18:29.740 cried I miss my mom's house who was
+00:18:31.960 about 40 about maybe 20 minutes down the
+00:18:34.810 road and cried and getting her couch
+00:18:36.040 saying I can't [ __ ] do this I don't
+00:18:37.780 know what I'm gonna do I just got
+00:18:40.870 somebody pregnant my life was this
+00:18:43.060 [ __ ] I was making $1,000 a month my
+00:18:45.190 rent was 8/10 a month and my mind just
+00:18:47.770 kept [ __ ] with me and kept [ __ ]
+00:18:49.750 you're not good enough man this isn't
+00:18:51.040 for you man these guys are best mother
+00:18:52.630 [ __ ] on the planet Earth you not that
+00:18:54.010 and what it was and it's kind of funny I
+00:18:59.350 was obsessed with rocky rocky one in
+00:19:04.480 particular and when I was a kid I come
+00:19:07.120 home every day and I watched his [ __ ]
+00:19:08.830 show rocky and I was fast forward with
+00:19:11.530 the little VHS tapes to round 14 round
+00:19:15.940 14 [ __ ] me up like nobody's business
+00:19:18.190 why this song came on right so when I
+00:19:21.040 bought the pull-up record I listened to
+00:19:22.270 the song for 17 hours it's two minutes
+00:19:23.890 and 13 seconds and I'm able to visualize
+00:19:28.420 and dream like nobody's business and I
+00:19:33.400 know that I can create a vision that
+00:19:35.170 many people can't and I work for it so
+00:19:38.380 the vision I had was when Apollo Creed
+00:19:40.810 beat the [ __ ] [ __ ] out of Rocky beat
+00:19:42.940 the [ __ ] out of him he's kept fighting
+00:19:44.620 he was a dumb fighter couldn't read
+00:19:47.980 couldn't [ __ ] on me couldn't read
+00:19:49.600 couldn't write just punchy everything
+00:19:52.630 about him and rocky beaches are probably
+00:19:55.450 [ __ ] using that corner everybody was
+00:19:56.890 saying stay the [ __ ] down
+00:19:58.760 and him getting up him getting up Apollo
+00:20:02.929 Creed raised his arms up in the [ __ ]
+00:20:04.160 air turn around thought he won the fight
+00:20:05.500 he turns around and sees this guy
+00:20:07.700 getting up and it was the face of Apollo
+00:20:10.309 Creed that changed my life the face of
+00:20:13.429 Apollo Creed it was like just by that
+00:20:15.530 [ __ ] getting up not winning just
+00:20:18.919 by him getting the [ __ ] up Apollo Creed
+00:20:21.830 was his champ his best rocky had taken
+00:20:24.950 his soul had literally taken his soul
+00:20:28.160 his his head goes down he looks down
+00:20:29.780 like Ruth what the [ __ ] are you
+00:20:31.520 I wanted to be that not Rocky I want to
+00:20:35.960 be the guy that people looked at I don't
+00:20:37.490 keep you've liked me or didn't like I
+00:20:38.690 don't care but said this [ __ ] is
+00:20:40.910 gonna keep coming after whatever the
+00:20:44.000 [ __ ] is in front of them I wanted that I
+00:20:46.730 wanted that I wanted that worse than
+00:20:49.429 anything in the world
+00:20:50.750 so that is I kept picturing me falling
+00:20:56.210 down and getting up and every
+00:20:57.679 [ __ ] that called me [ __ ] I was
+00:20:59.690 dumped even myself even myself I wanted
+00:21:03.260 to feel something besides two feet I
+00:21:05.890 wanted to just go to distance and that
+00:21:09.230 going a distance pushed me to a point of
+00:21:11.590 where now I go way past the distance so
+00:21:15.290 you go the first day you run a
+00:21:17.510 quarter-mile and you walk back home and
+00:21:19.190 you're you're upset how do you how do
+00:21:21.020 you move forward so basically idea was I
+00:21:23.150 came home and I had a talking milkshake
+00:21:26.360 I sat down and I gave up I said it
+00:21:29.480 saying go [ __ ] happen Mac I lose 106
+00:21:31.309 pounds and I came and go a quarter a
+00:21:32.720 [ __ ] mile I started being able to
+00:21:38.390 take negative [ __ ] and be happy and this
+00:21:43.429 whole I say what if a lot it sounds
+00:21:45.679 corny and it sounds weak but it's true
+00:21:48.610 one of the recruiters said there's not
+00:21:51.169 many black Navy SEALs in fact I was a
+00:21:52.850 thirty six african-american seal in
+00:21:54.470 history
+00:21:55.010 is in overseas because the [ __ ] water
+00:21:58.610 you know I mean people get mad at me
+00:22:00.500 it's [ __ ] true just get over it and
+00:22:02.950 so I was like man what story would it be
+00:22:08.179 if my [ __ ] fat dumb lying to be
+00:22:12.480 people insecure ass can overcome this
+00:22:16.049 [ __ ] and that would if mentality like
+00:22:18.950 that that dreamer mentality just would
+00:22:22.080 always fuel me it was just ruin man what
+00:22:24.299 if I can be but if I can be a seal man
+00:22:26.660 what if I can go from wearing a quarter
+00:22:29.040 of [ __ ] mile now I run 205 miles what
+00:22:33.299 if I can go but just what if I can go in
+00:22:35.429 and what if how would that feel if I'm
+00:22:38.100 graduating kind of get at that
+00:22:39.450 graduation thing I was talking about
+00:22:40.679 224th like the video I said then I'll
+00:22:42.720 watch this command officer stood up and
+00:22:45.030 he said to the graduation guys you're
+00:22:47.610 graduating buds like eighteen of them he
+00:22:50.070 said we live in a society where
+00:22:51.179 mediocrities often rewarded and we don't
+00:22:53.880 to say something about these men detest
+00:22:55.679 mediocrity and I wanted to be a man that
+00:22:59.549 the test mediocrity you know it got me a
+00:23:02.460 lot of trouble in the SEAL Teams and
+00:23:04.710 going forward in my life because I just
+00:23:06.179 I started looking down on people for not
+00:23:08.549 going hardest [ __ ] [ __ ] and I started
+00:23:11.970 to create different things but that's
+00:23:13.290 for a different day but I just believe
+00:23:15.360 that it you know my whole mind changed
+00:23:17.100 that is a problem that a lot of people
+00:23:19.110 who work hard to have you get angry at
+00:23:21.360 people who don't work hard to the point
+00:23:23.460 where you you know you want to insult
+00:23:25.350 them you want to you want to smack them
+00:23:27.419 and it's really because you're scared of
+00:23:29.370 seeing that yourself yeah that's
+00:23:31.440 probably the truth that's probably the
+00:23:33.150 truth so I guess a lot of times my life
+00:23:36.270 I would see people and it part was a
+00:23:38.309 direct reflection of who I was and I
+00:23:40.980 would get mad at them but reflections
+00:23:42.510 probably just be getting mad at myself
+00:23:43.890 yeah that's for me 100% when I when I
+00:23:46.500 see people they're half-ass some things
+00:23:47.940 I get terrified of seeing that in myself
+00:23:49.919 and I get mad at them right and it's uh
+00:23:52.700 it's not a good way to handle it no you
+00:23:55.380 know but it's it's natural because
+00:23:56.970 you're just terrified of seeing that
+00:23:58.380 trait right and it cost me so you come
+00:24:01.110 back mmm you do the quarter-mile right
+00:24:03.960 you walk back home how do you regroup so
+00:24:06.660 what I did I sat down then I put rocky
+00:24:08.309 in I got my milkshake put rocky ice you
+00:24:11.429 know what I was big-time in Rocky and
+00:24:13.410 platoon why platoon I love to see people
+00:24:16.890 who were getting beat down and this
+00:24:19.980 there's there's scenes there's scenes
+00:24:22.020 that this drove me and people in my hell
+00:24:24.150 weeks you know I was in three of them
+00:24:25.850 always hear me singing these songs these
+00:24:28.309 songs humming these songs in torturous
+00:24:30.559 situations when you're when everybody's
+00:24:32.450 quitting this [ __ ] code I would be
+00:24:34.750 somewhere gone somewhere [ __ ] gone if
+00:24:38.270 somewhere [ __ ] darkest [ __ ] there's a
+00:24:40.190 scene of platoon when Elias Wimborne and
+00:24:42.679 shoots Elias and you know they think
+00:24:44.990 Elias is dead and the choppers are
+00:24:47.690 taking off and charlie sheen's ask him
+00:24:50.120 you know Tom Berenger
+00:24:51.740 where's Elias reason lies Willem Dafoe I
+00:24:54.530 found him back there dead somewhere and
+00:24:57.610 through the woods the Viet Cong has
+00:25:00.049 chasing he lies through the woods and
+00:25:01.400 the shoot him in his [ __ ] back
+00:25:02.720 and all he wants to do is get to the
+00:25:04.039 [ __ ] chopper he's getting shot in his
+00:25:05.659 back he's getting up getting something
+00:25:06.740 face getting up and you see this guy
+00:25:08.900 just fighting
+00:25:09.710 I love the [ __ ] guy who just [ __ ]
+00:25:12.470 fights and so I put these things in as
+00:25:14.990 reminders that you're gonna have to
+00:25:17.030 [ __ ] suffer man this [ __ ] point
+00:25:20.330 two-five man this is man you're gonna
+00:25:22.820 have to [ __ ] suffer to go from this
+00:25:26.299 fat insecure [ __ ] to one of the
+00:25:29.120 best guys on the planet Earth this
+00:25:31.159 journeys could take something that is
+00:25:33.110 going to be incomprehensible to most
+00:25:34.909 people and these different
+00:25:37.990 visualizations how I visualized myself
+00:25:40.789 talked it became so nasty and dirty that
+00:25:43.909 I wasn't liked the fact that I went
+00:25:46.010 point to five so it became from being
+00:25:48.950 defeated to like man all right
+00:25:51.169 [ __ ] maybe you know maybe
+00:25:52.340 tomorrow and go point seven-five you
+00:25:54.440 know it just became this different
+00:25:56.510 mindset I turn negatives into positives
+00:25:57.740 so I would I would take it like who
+00:26:00.320 would even think about doing this so I
+00:26:02.120 would sit in my couch saying who at 297
+00:26:04.490 who can't [ __ ] swim that great who
+00:26:06.590 scary the [ __ ] water we have the
+00:26:08.390 [ __ ] balls kind of balls to [ __ ]
+00:26:11.090 man up quit a job and go and it put
+00:26:14.360 everything on himself
+00:26:15.919 so it's how I started talking to myself
+00:26:18.440 and put myself in a whole different
+00:26:20.240 category and that was fueling me the
+00:26:21.650 next day and I just kept using that as
+00:26:23.150 fuel and fuel no one would do this [ __ ]
+00:26:25.669 no one do this [ __ ] you're the best
+00:26:27.440 [ __ ] around you're the best
+00:26:28.760 [ __ ] ever live and I had the
+00:26:30.710 guys kept fueling me with them with the
+00:26:32.990 right kind of message that I needed to
+00:26:34.880 hear that was never telling myself and
+00:26:36.500 through time
+00:26:39.290 became reality to myself so you start
+00:26:43.640 out on the first day and then do you
+00:26:45.860 start running again the second day yeah
+00:26:47.420 the second day was right back after
+00:26:48.440 again but I start realizing I can't run
+00:26:50.660 that for right so what I did was I
+00:26:52.490 became damn near a professional cyclist
+00:26:54.650 with the miles I put it on the bike so I
+00:26:57.110 never we never watched TV
+00:26:59.660 I had to be doing something so I was
+00:27:01.850 riding the bike I rode a bike a lot to
+00:27:04.460 lose the first initial kind of weight
+00:27:06.320 cuz it took my bones were just hurting
+00:27:08.270 so bad my bow is broken and I learned to
+00:27:10.580 get over that also and I tried to swim a
+00:27:12.560 lot I weren't a great swimmer but
+00:27:13.580 putting fins on kind of equalized my
+00:27:15.800 body I wasn't so negative buoyant so I
+00:27:17.690 started fitting a whole bunch and I
+00:27:19.700 spent hours in the pool hours in the
+00:27:21.980 pool trying to get more and more
+00:27:23.360 comfortable not because I was going
+00:27:24.500 underwater I was so scared of the water
+00:27:26.510 that I had to live in the water I had to
+00:27:29.330 become one with the water so going to
+00:27:32.300 the pool used to scare me so I went to
+00:27:34.970 the pool an awful awful lot and then the
+00:27:38.630 bike got easier I was able to run more I
+00:27:41.330 went from like one mile one mile was a
+00:27:44.060 great accomplishment two miles and then
+00:27:46.400 from 2 to 3 was a big one I went from 3
+00:27:48.770 to 6 and then like they have a warning
+00:27:51.860 order that they give people to get ready
+00:27:53.270 for buts and the whole thing was running
+00:27:55.160 6 miles five days a week and that was my
+00:27:58.010 goal and so I just kept I failed I go
+00:28:01.730 back to scratch I use some positive
+00:28:03.950 motivation I have like one day where I
+00:28:05.600 like [ __ ] defeated but I started
+00:28:07.850 realizing this a part of the process
+00:28:09.050 this is a part of the journey I had to
+00:28:10.550 realize this is part of my process
+00:28:11.800 versus just saying like I used to
+00:28:14.540 I'm just not good enough if I'm not good
+00:28:16.640 enough we always say that [ __ ] that's
+00:28:18.230 not good enough and then we try
+00:28:19.100 something else
+00:28:19.730 I'm gonna [ __ ] make myself good
+00:28:21.470 enough and that became my mentality I'm
+00:28:23.740 gonna make myself good enough and so I
+00:28:26.660 misunderstood a lot but that's that's
+00:28:29.750 all it came down to I made myself good
+00:28:31.970 enough and the days I couldn't run that
+00:28:34.610 far the next week I would do two a days
+00:28:37.700 so on the running if I ran a
+00:28:40.760 quarter-mile I weighed a [ __ ] couple
+00:28:43.370 hours it haunt me bother me I try to run
+00:28:45.650 a half a mile next time same day you can
+00:28:48.740 do more than this if I had to walk ahead
+00:28:50.600 and walk it just became just a process
+00:28:52.250 of
+00:28:53.210 grinding and grinding and grandees not
+00:28:55.070 even a good word for it it's not even a
+00:28:57.110 good word for it and just just going
+00:29:00.169 further and further and then when I got
+00:29:01.700 through running I go to the bike I go to
+00:29:03.980 the pool if I got tired somewhere my
+00:29:06.110 legs are tired
+00:29:06.860 I go to the gym and I develop this crazy
+00:29:09.649 workout where I was doing volume like
+00:29:12.700 two-three hundred reps of like very
+00:29:15.409 lightweight people I said how you know
+00:29:17.210 how come you have any like loose skin my
+00:29:19.490 workout routine the gym became sick it
+00:29:22.190 became sick I was just doing two three
+00:29:23.929 hundred reps four hundred reps on like
+00:29:25.970 chest just like for one simple exercise
+00:29:28.820 the best press and a racket get back on
+00:29:32.809 it just rep it out trying to burn as
+00:29:34.370 many calories I can't build that muscle
+00:29:35.720 mass and ice became just became obsessed
+00:29:38.600 with it so when you're doing this are
+00:29:40.700 you worried at all about repetitive
+00:29:42.590 stress injuries or the fact that your
+00:29:44.240 body's not conditioned for this and
+00:29:45.679 you're basically taking your body where
+00:29:47.330 you had abused it right and now you're
+00:29:49.309 you're forcing it to live like in an
+00:29:51.260 elite athlete right I didn't care I
+00:29:53.330 didn't know any better I didn't think
+00:29:55.220 about it wow I didn't I didn't know that
+00:29:58.700 working out that hard would [ __ ] you up
+00:30:00.590 I did it [ __ ] you up oh yeah yeah that's
+00:30:02.990 one reason I'm with you three Hill weeks
+00:30:04.250 so I don't talk about a lot but um the
+00:30:08.000 stress of my life getting to 24 calls me
+00:30:11.270 have some serious so as issues I know
+00:30:13.279 anything about this [ __ ] there's so as
+00:30:15.230 muscles what we use history hip flexor
+00:30:16.789 muscle and basically under stress it
+00:30:19.279 starts to tighten up and I was I started
+00:30:22.070 for from the time I was in third grade
+00:30:24.590 time I was in seventh grade white
+00:30:25.700 blotches on my skin I was just I was in
+00:30:28.580 that case and so the insides of me are
+00:30:31.070 also getting [ __ ] up so in this
+00:30:34.130 process my soul has mostly got real
+00:30:37.340 tight to my t12 I can show you the bump
+00:30:40.309 on the back of my head after this show
+00:30:41.720 is over but I had I started growing this
+00:30:44.059 [ __ ] like large tumor or looking bump
+00:30:46.309 on the back of my head from my body
+00:30:48.440 compressing so I'm six foot one but my
+00:30:50.299 muscles were like five foot nine because
+00:30:52.549 I just started just the muscle tightness
+00:30:54.620 for my so ass going to my t12 I was just
+00:30:58.070 getting tighter my quads everything
+00:30:59.779 getting tired from just stress just
+00:31:01.700 stress in my life so the more I stressed
+00:31:04.309 my body with the workouts
+00:31:06.180 my lower body became out of balance so I
+00:31:09.570 had a bunch of stress fractures bunch of
+00:31:11.850 injuries going through buds and how I
+00:31:14.490 got through buds was they gave me my
+00:31:16.770 third time was my last time going
+00:31:18.390 through hell week I basically put a
+00:31:20.670 black sock on at four o'clock in the
+00:31:22.080 morning and I would get duct-taped I had
+00:31:24.090 a numerous stress fractures on both of
+00:31:26.490 my legs because my my body was literally
+00:31:28.860 like coming in on itself in my legs like
+00:31:32.130 I was I was pronating it really bad and
+00:31:34.230 putting stress on my stress on my shins
+00:31:36.450 and so I would put duct tape I would
+00:31:39.120 duct tape my feet and I would show you
+00:31:40.380 the top of them where I have pressure
+00:31:41.580 ulcers they're the size of quarters from
+00:31:44.670 you know how the ankle joint so the foot
+00:31:47.220 goes to the shin and how you move this
+00:31:49.920 where the tape was so tight it just
+00:31:52.620 created a nice ulcer right there and I
+00:31:56.580 just uh just kept going through it so
+00:31:59.460 you just use that tape to just support
+00:32:00.840 your ankles right so I basically cast
+00:32:02.850 myself and for the first 30 45 minutes
+00:32:05.220 the pain was excruciating but then it
+00:32:07.830 would go numb and I would go numb and
+00:32:10.950 then I saw I got through Wow did that do
+00:32:14.970 any long-term damage oh yeah I've been
+00:32:17.970 out for five years so I retired from the
+00:32:20.700 I did 21 years in military this time in
+00:32:22.380 the Air Force and I did about 16 years
+00:32:23.820 in the Navy how old you 43 she looks
+00:32:27.420 like you're 30 that's good that's good
+00:32:29.340 you really you look very young for your
+00:32:30.930 age whenever I'm stressed I get after it
+00:32:32.880 I think I fixed was ever bothering me so
+00:32:36.930 I basically over the last five years
+00:32:40.380 everything I've done in my life I did it
+00:32:42.750 be very unhealthy I've never talked
+00:32:45.330 about it I just kept going and it cost
+00:32:48.420 me pretty much I was choking my insides
+00:32:50.370 out adrenal issues tons of general
+00:32:52.590 issues thyroid issues anything with the
+00:32:54.840 endocrine system pretty much shut down
+00:32:56.250 on me a lot my organs were pretty much
+00:32:58.830 shutting down and I went from a guy who
+00:33:00.600 could run 205 miles to a guy who
+00:33:02.340 couldn't get a bed and the doctors were
+00:33:04.500 trying to search what was wrong that's
+00:33:05.580 why I figure out the psoas muscle no one
+00:33:07.740 figured it out and I hit it by accident
+00:33:10.680 so I I've missed two days of stretching
+00:33:14.190 out in five years and so what happened
+00:33:17.370 was all this should I did to myself this
+00:33:19.020 dress I
+00:33:19.539 under physical mental all kind of [ __ ]
+00:33:21.999 it just choked me out from the inside
+00:33:24.970 and doctors put me all kind of
+00:33:27.279 medication and the medication started
+00:33:29.259 doing the exact opposite it was kind of
+00:33:30.820 sure I was on um DHEA I was on some
+00:33:35.229 different things for my estrogen
+00:33:37.389 different things for my I was on
+00:33:40.149 anything to do with your with your
+00:33:42.669 endocrine system thyroid medicine get
+00:33:46.869 God I was on quarters all kind of [ __ ]
+00:33:49.509 to get my stuff I'd like just lump in my
+00:33:52.989 throat from like the heart was always I
+00:33:54.909 couldn't run down the street my body was
+00:33:57.549 just jacked up couldn't sleep my hope I
+00:33:59.470 was just down shutting down I could give
+00:34:01.629 you a lot more than that but just give
+00:34:02.679 me example I was [ __ ] dying and so I
+00:34:05.470 couldn't do anything I went from a guy
+00:34:06.789 who was this guy to a guy who can't do
+00:34:09.219 [ __ ] and doctors like I don't know
+00:34:11.020 what's wrong with you me you know your
+00:34:12.549 labs or this is it PTSD is it what's
+00:34:15.040 going on I knew what any of that [ __ ] so
+00:34:18.099 I sat in the bed one day and I realized
+00:34:19.750 man my life is over this is it but it
+00:34:22.629 gave me time to reflect on everything
+00:34:24.609 I'd accomplished I've never taken time
+00:34:26.530 to reflect on the kid I was to the man I
+00:34:30.280 am now so honestly the time I wasn't
+00:34:32.679 working out it was the best time I live
+00:34:35.109 because I got a chance to really reflect
+00:34:36.460 back and be proud of who I became guy
+00:34:39.069 never took time to do that it was like
+00:34:41.260 one after another get the [ __ ] after get
+00:34:43.510 after it get after you ain't good
+00:34:44.829 nothing my [ __ ] get after it get after
+00:34:46.119 it and I'm I got halted so anyway this
+00:34:50.949 process went on for a while more
+00:34:52.329 medication this isn't working that's not
+00:34:53.710 working no doctor can figure it out I'm
+00:34:56.379 like [ __ ] it I saw this doc about eight
+00:34:59.710 years before this happened he was like
+00:35:01.930 hey man you're so [ __ ] tight I've
+00:35:03.970 never seen anybody in my life as tight
+00:35:05.770 as you you need 50,000 hours of
+00:35:08.589 stretching he's doing some crazy number
+00:35:10.599 I like whatever stretching the you know
+00:35:13.210 it stretch stress is bad for you so you
+00:35:16.180 thought stretch was but that's just bad
+00:35:17.710 for you why did you think that I read
+00:35:19.359 some article you know a man [ __ ] [ __ ]
+00:35:22.150 stretching man I worked out so hard I
+00:35:25.180 don't have time to stress man I was 150
+00:35:27.309 miles a week I was biking to work man I
+00:35:29.319 was getting after it man I was working a
+00:35:30.910 full-time job
+00:35:32.290 and stretching and doing that so my body
+00:35:35.500 was literally getting tired and tired
+00:35:36.880 not just from what I was doing but
+00:35:38.320 there's all cuz you ran this nut wasn't
+00:35:39.820 that man and so I said no I'm gonna try
+00:35:43.270 to stretch out so I don't do anything
+00:35:45.490 for like ten minutes
+00:35:46.690 or you know I don't do to a six-minute
+00:35:49.120 abs [ __ ] so I start stretching out
+00:35:51.310 one hour hour and a half long story
+00:35:54.040 short man I shaved my head unless every
+00:35:55.720 morning and that bump doesn't the back
+00:35:58.600 of my [ __ ] head I started realizing
+00:36:00.010 it was shrinking for some [ __ ] reason
+00:36:01.690 I don't know why because I shaved my
+00:36:03.850 head back and I was like it's getting
+00:36:05.380 smaller smaller that bump got healthier
+00:36:08.380 I got smaller that bump got I was like
+00:36:10.720 oh hold up [ __ ] what's going on
+00:36:12.760 that so whereas muscle started getting
+00:36:14.650 more and more stressed out more more
+00:36:16.000 relaxed and over a period of five years
+00:36:17.980 I'm the best shape in my damn life right
+00:36:19.900 now from stretching out Wow that's all
+00:36:23.470 it was I went from like I came in
+00:36:25.510 counting medications I was on now I'm on
+00:36:28.000 a very low dose thyroid pill period do
+00:36:31.660 you ever do yoga all the time man all
+00:36:34.480 the time and I if I were to tell
+00:36:37.240 somebody one thing right now man that's
+00:36:39.190 so as muscle and getting that hip flexor
+00:36:42.130 opened up because we're all stressed the
+00:36:43.990 [ __ ] out it was it's almost worse than
+00:36:46.720 others it changed my life yeah how do
+00:36:50.350 you say Nick Gregorius how do you say
+00:36:52.510 his last name
+00:36:53.320 the Brazilian jiu-jitsu black belt from
+00:36:56.250 England the Greek fella he has a great
+00:36:59.380 quote about yoga he said yoga is a
+00:37:02.050 martial art you do against yourself yep
+00:37:03.850 it's a great way of putting it a hundred
+00:37:06.040 percent so what it feels like when
+00:37:07.330 you're in there right hundred percent
+00:37:08.500 and so you how many years ago was this
+00:37:13.300 it was five years ago anything and how
+00:37:15.700 long was there a period where you
+00:37:17.080 couldn't work out at all there was about
+00:37:18.820 so I always try to do something but I
+00:37:21.250 couldn't run hardly though I could run
+00:37:22.660 maybe half a mile and all that hard [ __ ]
+00:37:25.750 would happen in my heart would get a fit
+00:37:27.490 and I'll cast off what happened and I
+00:37:29.590 started just stretching and also I tried
+00:37:31.330 to pull ups every now and then but
+00:37:33.190 everything was just I didn't have the
+00:37:34.720 energy I didn't have anything I mean
+00:37:37.390 nothing was processing right for me so
+00:37:39.040 do you think that you just broke in your
+00:37:41.200 body you pushed it too hard hundred
+00:37:43.000 percent
+00:37:44.230 sat back in that bed that night and I
+00:37:46.720 had a lot of time to reflect us you know
+00:37:47.890 what I was actually kind of proud of
+00:37:49.450 myself in a very sick twisted way I even
+00:37:53.980 though people would understand it I had
+00:37:55.630 to do what I had to do and you know and
+00:37:58.480 I did it like I didn't tell you how I
+00:38:00.640 got into ultrarunning
+00:38:01.660 you know there's a lot of things that so
+00:38:04.300 I I pushed extremely hard I went way
+00:38:08.350 beyond what I thought was capable like
+00:38:11.470 my first ultra race I did I was uh I was
+00:38:13.690 heavier I was in Iraq you know the
+00:38:15.940 marcus luttrell lone survivor I was in
+00:38:18.430 buds I was in three hell weeks as you
+00:38:19.900 know as I said many times and I knew a
+00:38:21.970 lot of guys that died in the operation
+00:38:23.200 now I was at freefall school with
+00:38:25.150 marking the trail who is his twin
+00:38:26.410 brother during the operation wet wings
+00:38:28.600 wear market rosin on a survivor
+00:38:30.670 I knew market real well and I was about
+00:38:34.060 200 some odd pounds and I didn't run
+00:38:36.940 hardly at all at this time I was a seal
+00:38:38.950 but I was like a bodybuilder
+00:38:40.510 and I did it elliptical trainer 20
+00:38:43.150 minutes on Sunday all I did so I did
+00:38:46.030 [ __ ] that cardio stuff I was never about
+00:38:48.550 it until this happened so that happened
+00:38:52.119 and I was like man I gotta find a way to
+00:38:53.320 raise money for these families so I
+00:38:55.660 googled the I I found a foundation the
+00:38:58.480 Special Operations Warrior Foundation
+00:38:59.560 and I googled the 10 hardest races in
+00:39:02.470 the world I knew nothing about ultra
+00:39:04.990 running the first I'd ever run was 20
+00:39:06.700 miles at one time and so what came up
+00:39:09.250 was the bad water 135 135 mile run
+00:39:12.369 through Death Valley in the summertime I
+00:39:13.950 thought was a [ __ ] stage race I know
+00:39:16.660 people can run her 35 miles at one time
+00:39:18.670 had no idea was imminent stage race
+00:39:20.560 would you run like 20 miles I'll camp
+00:39:22.690 out and then run 20 more to get her 35
+00:39:25.900 miles right so I wouldn't alter runner
+00:39:28.359 to know ultra runner was I called the
+00:39:29.680 race director up Chris Kaufman of the
+00:39:31.600 bad water spinning he said are you an
+00:39:34.570 ultra runner and I was like I don't know
+00:39:36.820 what that is
+00:39:37.330 he goes have you run 100 miles in 24
+00:39:39.369 hours or less I was like no but I said
+00:39:41.920 I'm a Navy SEAL I was in 3 Heloise I was
+00:39:44.560 arranged I gave him some resume he
+00:39:45.940 didn't give a [ __ ] he said I don't care
+00:39:48.130 you got qualified for my race and the
+00:39:50.470 deadline was up in two months for this
+00:39:52.060 bad water race and basically he said
+00:39:55.540 there's two more races you can do to
+00:39:56.950 qualify
+00:39:57.520 and I might consider you my race we
+00:39:59.380 select top 90 athletes in the world and
+00:40:01.119 you know even all true runner but I like
+00:40:03.520 your cause like what you're doing he
+00:40:05.470 said uh I come up on a Wednesday and he
+00:40:07.800 goes there's a race on Saturday in San
+00:40:10.750 Diego San Diego one day when you run
+00:40:13.060 around a one-mile track for 24 hours
+00:40:15.040 Samiha miles you get if you get 100 24
+00:40:17.380 hours I will consider you in my race I
+00:40:19.590 did the math 14 some minute mile [ __ ] it
+00:40:22.930 I can do that dumb [ __ ] thinking I'll
+00:40:26.830 tell you that right now
+00:40:27.520 it was rough worst pain I've been in my
+00:40:29.470 entire life or this race so I have my
+00:40:33.070 wife that time she's not my ex-wife we
+00:40:35.080 go to Walmart get a blue lawn chair Ritz
+00:40:36.850 crackers in my licks that's what I'm
+00:40:39.070 gonna have for a hundred mile run
+00:40:40.420 so show up at the start line this race
+00:40:42.850 it was a you a national championships
+00:40:46.090 it's like the best ultra runners compete
+00:40:48.850 against each other to Sydney miles you
+00:40:50.800 can get in 24 hours and I'm this big
+00:40:53.140 bodybuilder looking guy but there's do
+00:40:55.570 it like them I would say I was at least
+00:40:58.560 230 at least it may have been more than
+00:41:01.780 jacked yeah oh yeah I was ripped to [ __ ]
+00:41:04.090 up I'm a big ol chest out date I was I
+00:41:06.460 was jacked up there's a picture I mean
+00:41:08.050 he definitely didn't look like someone
+00:41:09.250 who could run a home run no not at all
+00:41:11.130 so basically I start running and I get
+00:41:15.070 to about mile 40 mile 50 and I'm feeling
+00:41:18.190 pretty good I get to mile 70 and it was
+00:41:22.480 the worst pain of my life i sat down
+00:41:26.200 this blue lawn chair at Mile 70 and my
+00:41:29.710 the rich crackers after mile 20 became
+00:41:32.290 wrist cracker bong sky wasn't hydrating
+00:41:33.940 correctly I don't know what to do I was
+00:41:36.220 drinking mile Plex for my nutrition
+00:41:38.080 because I couldn't eat these rich
+00:41:39.460 crackers have very minimal water if any
+00:41:41.770 at all and I was just dying so I sat
+00:41:44.320 down this blue lawn chair as I was
+00:41:46.210 watching lies runners go around in this
+00:41:47.440 circle and I was all dizzy and
+00:41:49.180 lightheaded hadn't gone in the bathroom
+00:41:50.619 it's been about 12 hours I went 70 miles
+00:41:52.210 about 12 hours which is good and I
+00:41:54.760 looked at my ex-wife now and I was like
+00:41:56.740 I am [ __ ] I started seeing like three
+00:41:59.410 of her and once my body stopped my mind
+00:42:03.190 just went off and I had to go to the
+00:42:05.980 bathroom and the bathroom is like it's
+00:42:08.140 like 20 feet away from me if that not
+00:42:10.119 Cooney
+00:42:11.079 and so I sat there and pee blood down my
+00:42:12.700 leg and start crapping up my back and
+00:42:14.650 for 30 miles to go I am my feet were
+00:42:17.979 broken I was just in the worst shape
+00:42:20.019 because once you stopped running not
+00:42:22.690 running like that I mean I didn't run in
+00:42:24.400 almost a year I was just doing body
+00:42:26.920 building stuff and 20 minutes on the
+00:42:28.779 elliptical trainer no running at all I
+00:42:31.209 probably ran no [ __ ] no [ __ ] no more
+00:42:35.229 than 50 miles the whole year that wasn't
+00:42:39.039 my thing I want it to be like jacked you
+00:42:41.170 know I didn't want to be cardio guy I
+00:42:43.359 want to be ripped big Navy SEAL guy and
+00:42:46.599 um in the day before this race is funny
+00:42:50.650 this guy named Joe Burns who put me
+00:42:52.779 through my hell weeks a SIL guy he's one
+00:42:54.999 of the hardest guys out there he was in
+00:42:56.950 the gym the Friday before I did this
+00:42:58.509 race and he was doing a full body squats
+00:43:01.089 deadlifts power cleans I get my own you
+00:43:04.029 know he he's a guy that proved me to do
+00:43:05.559 this race you know he gave me the
+00:43:07.599 approval to go do this race and signed
+00:43:09.819 off on it so I'm in the gym I went in
+00:43:12.190 there did a full-body hardcore squats
+00:43:14.349 deadlifts and everything with this guy
+00:43:16.209 because I knew he was gonna come watch
+00:43:18.849 me in this race so I've always been
+00:43:21.369 about all right man you're gonna see me
+00:43:22.839 coming here and Jack this weight and the
+00:43:24.489 more you watch me do a hundred mile run
+00:43:26.369 we can think about that so basically I
+00:43:30.219 paid for it so at my so he came out
+00:43:32.979 there with my favorite thing chocolate
+00:43:34.719 you know mini doughnuts because he knew
+00:43:36.249 my story of my past life and brought the
+00:43:38.949 six minute doughnuts out there and I'll
+00:43:40.299 have my hat pulled down and at Mile 70
+00:43:42.699 men it was torturous and with blood down
+00:43:45.609 my leg and 30 miles to go I started
+00:43:51.099 reaching the cookie jars man I started
+00:43:52.900 pulling off all kind of stuff I reached
+00:43:55.509 in my mind and a lot of us when we have
+00:43:57.640 bad times in life even the hardest
+00:43:59.170 person where we forget how badass we are
+00:44:01.690 during that hard time I have a thing
+00:44:04.599 where I take a couple seconds to reflect
+00:44:06.190 on I hang on man you've meant to been
+00:44:08.140 through this you've been through that
+00:44:09.190 you overcame this overcame that I don't
+00:44:11.499 ever close my mind to the fact that this
+00:44:14.019 can't be done
+00:44:14.619 and I knew I had to get up I need
+00:44:17.499 nutrition I need hydration I need to get
+00:44:19.089 stop being dizzy so that's the first
+00:44:22.209 thing I did I didn't panic gonna have 30
+00:44:23.829 more miles to go to get
+00:44:25.420 I start about the process slowly but
+00:44:28.300 surely I was able to stand up and I was
+00:44:30.340 literally hobbling around this track
+00:44:32.590 we're just walking no running at all I
+00:44:34.660 couldn't run my feet were in the worst
+00:44:36.580 pain it's the worst pain I've been in my
+00:44:37.870 entire life nothing in any training is
+00:44:40.390 even a comparable to this last 30 miles
+00:44:43.110 and what happened was my ex-wife looked
+00:44:46.870 at me and she's like man you're this we
+00:44:48.820 agreed I'm not gonna make the time I was
+00:44:50.470 going way too slow
+00:44:51.670 and at that time at mile 81 something
+00:44:55.390 clicked that I'll never probably be able
+00:44:57.190 to do again where my mind body spirit
+00:44:58.990 soul everything disconnected and my mind
+00:45:01.990 knew I wasn't [ __ ] around anymore it
+00:45:04.600 knew it wasn't gonna quit it knew that
+00:45:06.310 guy was dead and buried and gone and I
+00:45:09.550 was gonna die out here on this [ __ ]
+00:45:11.320 Walmart for whatever reason why I was
+00:45:14.020 gonna get through this [ __ ] I
+00:45:15.400 didn't give a damn it made no there was
+00:45:17.350 no [ __ ] crowds there was no trophy at
+00:45:19.540 the end there was I wasn't even in a
+00:45:20.920 race in my mind there was it was nothing
+00:45:23.680 it weren't about nothing there was no
+00:45:25.690 nothing it was a bunch of people who
+00:45:27.280 didn't know who the [ __ ] I was it was me
+00:45:29.470 against me and I used all these
+00:45:32.500 different dark places to start bringing
+00:45:34.360 out light and just [ __ ] going deeper
+00:45:36.070 and deeper in it running the next 20
+00:45:38.320 miles around 101 miles and I ran the
+00:45:41.260 next 20 miles ran at about a 1030 pace
+00:45:44.620 and I did 101 miles in 18 hours and 56
+00:45:48.700 minutes sat back down that blue
+00:45:51.330 port-a-potty now my chair that got from
+00:45:54.490 Walmart and that's when the body
+00:45:56.950 realized I was done and this great
+00:46:00.130 feeling came over me but also the worst
+00:46:02.050 pain in my life I that's when I took a
+00:46:04.510 humongous [ __ ] on myself literally like
+00:46:07.330 I like a [ __ ] log up my [ __ ] back
+00:46:09.850 piss so much blood down and my wife was
+00:46:12.430 she was a nurse and she was freaked out
+00:46:15.460 I couldn't get up I couldn't stand up
+00:46:17.620 she backed this Camry on the knoll of
+00:46:20.350 the grassy area I was at and we were
+00:46:23.110 both lifters at the time so she was
+00:46:25.000 decently strong I put my arms around her
+00:46:26.410 neck she got me to the backseat of the
+00:46:28.600 car that the windows down cos smelled
+00:46:29.890 like horrible [ __ ] and I had this poncho
+00:46:32.740 line because November in San Diego so
+00:46:34.510 I'm sitting there Jack him in the back
+00:46:35.560 his car and she was terrified anything
+00:46:37.810 dr. Anita
+00:46:39.630 that's take me home so we look in the
+00:46:42.309 second story or the second deck of this
+00:46:44.859 apartment complex in San Diego I got to
+00:46:48.220 the first deck so I get a car and I
+00:46:50.140 could stand up but with my arms on her
+00:46:51.910 neck so just leaning down I was gonna
+00:46:53.980 pass out got to the second or I got to
+00:46:56.140 the first deck went down just couldn't
+00:46:58.809 stand up anymore got around her neck
+00:47:01.030 worked up my way up the railing
+00:47:03.690 gamma-gamma I was on her neck again
+00:47:05.500 walked to the kitchen area which is
+00:47:07.450 right in the front door I was laying on
+00:47:09.460 a poncho liner crap was everywhere
+00:47:11.650 I managed she helped me manage to get
+00:47:14.170 into the toilet into the tub and it's
+00:47:16.780 like dirt was coming on my penis
+00:47:18.730 this looked horrible just just that
+00:47:20.170 grossly in the world it was worst pain I
+00:47:22.809 can ever ever ever be in in my life and
+00:47:25.420 the craziest thing I tell your story
+00:47:27.280 because it's right now I'm not sadistic
+00:47:28.839 I'm not crazy people may think that any
+00:47:30.520 way they may want to put a title on me
+00:47:32.290 after hearing me because it makes them
+00:47:33.730 feel better because they think wow this
+00:47:36.339 guy must be some special or just [ __ ]
+00:47:38.799 up crazy dude no I'm a guy that came
+00:47:41.890 from nothing anybody's capable of doing
+00:47:43.900 [ __ ] like this anybody and I sat in that
+00:47:47.170 tub she's put the water on me she called
+00:47:49.960 my mom up and my mom was dating a doctor
+00:47:52.359 at the time the doctor he actually said
+00:47:53.829 you need to get him to a hospital now
+00:47:55.650 she came back in all I want to do is
+00:47:57.790 call Chris Koster on the phone the race
+00:47:59.200 director of bad waters I [ __ ] did it
+00:48:01.000 so she some taken to doctor I said no
+00:48:03.250 let me sit here enjoy this pain she said
+00:48:06.609 what are you talking about I said you
+00:48:08.859 don't I go I need to go to the doctor I
+00:48:10.720 realize that but I never thought it was
+00:48:14.859 humanly possible to do what I did I went
+00:48:18.430 70 miles in at 70 miles I was dead I was
+00:48:23.770 at a hundred percent what I thought what
+00:48:27.160 I thought was 100%
+00:48:28.599 I went 30 I went 31 more miles after
+00:48:32.650 being in the worst physical shape I've
+00:48:35.290 ever been in in my life and all that all
+00:48:38.829 that pain and suffering and thing was
+00:48:40.690 going through my [ __ ] body and I sat
+00:48:42.579 in that tub and the waters hitting me it
+00:48:44.589 was the most amazing feeling of
+00:48:47.770 accomplishment and I want to be numb I
+00:48:50.220 want people to give me drugs and
+00:48:52.570 numbness [ __ ] pain I wanted to I did
+00:48:54.610 this however as crazy as it sounds it
+00:48:58.060 was the most amazing moment of my entire
+00:48:59.620 life to overcome such to come from this
+00:49:02.830 kid who was mentally torturing something
+00:49:06.250 was torture is talk to this kid - Skyy
+00:49:09.040 now who was able to overcome such
+00:49:11.590 amazing odds and obstacles and I called
+00:49:14.560 Chris cost him up the race director of
+00:49:16.090 bad water and he said the idea of a
+00:49:18.400 24-hour race is to run 24 hours you
+00:49:21.460 really ran 19 and he put doubt in my
+00:49:24.430 mind that he was that mean - bad water
+00:49:25.920 so a month later or so about a month and
+00:49:29.050 half later I went this race called the
+00:49:30.130 hurt 100 so hundred mile race in Hawaii
+00:49:33.360 26,000 feet of climb was all he said
+00:49:35.800 that's all he said that's so crazy I
+00:49:38.470 mean he's a hardcore dude but he didn't
+00:49:40.720 know how [ __ ] up I was right and he
+00:49:43.420 said he didn't say well you know I can't
+00:49:46.150 say no I might let you win
+00:49:47.980 he put enough doubt in my mind and say
+00:49:49.810 man I got to do more so I was broken I
+00:49:54.040 was broken bad and like how long does it
+00:49:57.760 take you to recover physically the
+00:49:59.290 funniest thing about this I'll tell a
+00:50:00.700 story very often I had signed up for I'm
+00:50:03.460 getting to that answer it's right now
+00:50:05.430 I'm in deployment and me and my wife my
+00:50:07.960 mom signed up for the first Las Vegas
+00:50:09.940 Marathon down the strip of Las Vegas and
+00:50:13.080 that isn't happened
+00:50:15.430 so I ran 100 miles before I ran a
+00:50:19.330 marathon
+00:50:20.310 two weeks later roughly December 5th was
+00:50:24.700 this marathon that we all signed up for
+00:50:26.200 I couldn't walk I could not walk I was
+00:50:29.530 [ __ ] up so it's ten days or two weeks
+00:50:33.820 after this 100 mile in one race I did
+00:50:37.170 this marathon December 5th Las Vegas I
+00:50:40.600 said you know it's the first one I can't
+00:50:42.220 run maybe I can walk with my mom so I
+00:50:45.220 tried to go out this little Knoll around
+00:50:47.470 our grassy area in San Diego I tried to
+00:50:49.360 run legs were broken I said [ __ ] I can't
+00:50:51.280 even I'm jacked can't do [ __ ] so I said
+00:50:55.630 you know what maybe I'll watch you guys
+00:50:56.650 do the marathon and I'll cheer you guys
+00:50:58.720 on whatever I said I'll try walk with my
+00:51:00.910 mom December 5th happened that gun went
+00:51:04.690 off 2005
+00:51:06.540 14 days after I broke myself off and I
+00:51:10.869 qualified for the Boston Marathon around
+00:51:12.580 308 that's crazy and what's funny about
+00:51:17.800 I know people here says [ __ ]
+00:51:19.300 even when I tell you the story I dropped
+00:51:22.240 I want to drop so many names google it
+00:51:24.820 look it up I don't give a [ __ ] like
+00:51:26.400 almost seems like I'm making my own
+00:51:28.780 story up it does it almost seems like it
+00:51:31.630 to you it does I cannot tell it if I
+00:51:33.790 were to hear somebody I said let's you
+00:51:35.890 know just do you Joe Rogan's podcast I
+00:51:38.140 heard some black dude from [ __ ]
+00:51:40.210 Brazilian hand talking about I this
+00:51:41.740 happened this happened three weeks
+00:51:43.060 Ranger school ran a hundred miles broke
+00:51:45.430 my feet broke my body I'm like this man
+00:51:47.500 he's the biggest [ __ ] liar on the
+00:51:49.450 planet or ain't nobody know [ __ ] even
+00:51:51.220 why I tell my story it almost sounds
+00:51:53.500 like some made-up [ __ ] so yes crazies
+00:51:56.560 you ran a hundred miles before you ever
+00:51:58.420 ran a marathon right then you didn't run
+00:52:00.339 again at all and he's still qualified
+00:52:02.470 for the Boston Marathon so you ran a 308
+00:52:05.680 right for the first marathon you ever
+00:52:08.200 did ever did two weeks after you ran a
+00:52:10.450 hundred miles right with no training and
+00:52:12.520 nothing in between but it gets better
+00:52:13.960 than that you can see my training log to
+00:52:16.839 actually post it up so that's when I
+00:52:19.359 started training for the hurt 100 so
+00:52:24.760 basically what happened was after that I
+00:52:26.890 had about four weeks what did it feel
+00:52:29.140 like to run that 308 if you could barely
+00:52:31.210 walk when that gun went off something
+00:52:34.510 went off in my head and I didn't feel
+00:52:37.839 that much pain at all afterwards I did
+00:52:40.830 but something happened where I was like
+00:52:43.420 the gun went off and that thing came
+00:52:46.089 back like all right man what if because
+00:52:50.140 I want to qualify for Boston that was my
+00:52:52.990 goal but I was I was jacked up you know
+00:52:56.170 and I and I and I didn't run as much
+00:52:58.180 that sort of at all over my Iraq
+00:53:01.359 training I hit the weights and but my
+00:53:04.030 job but but my goal was my son that
+00:53:05.830 forward a year early
+00:53:06.849 I want to qualify for Boston which was a
+00:53:09.190 three 10:59 and I was like what if you
+00:53:13.089 can qualify for Boston mayor and so we
+00:53:15.130 wit helped me out I spent 101 miles
+00:53:19.350 what the [ __ ] is 26 miles to me now so
+00:53:22.050 the mindset going into it was like I ran
+00:53:24.660 75 more miles in this so I use it to my
+00:53:28.650 advantage so after that happened I ran
+00:53:30.990 but my feet pretty much broken I would
+00:53:33.570 go to the physical therapist and they
+00:53:35.580 had this compression tape compressing
+00:53:37.740 tape help because I'm my feet were
+00:53:39.090 pretty bad off and I would run 7080
+00:53:42.210 hundred mile weeks and then I went to
+00:53:44.790 the hurt 100 race in Hawaii 26,000 feet
+00:53:47.880 of climbing over 100 miles probably one
+00:53:50.580 of the top five hardest hundred mile
+00:53:52.170 races in the world
+00:53:52.980 I wouldn't even a real runner yeah I
+00:53:56.070 baked a lot of miles by the last the
+00:53:58.410 last but two and a half about two months
+00:54:00.540 but I want a runner went out there and
+00:54:02.640 got through the race did in 33 hours
+00:54:05.310 with a ninth place finisher
+00:54:06.720 not many people finished that that year
+00:54:08.760 and I qualified for bad water and got in
+00:54:11.340 and I went on to lose weight and train
+00:54:14.700 hard and I got fifth my first year I
+00:54:16.230 went back my second year and got there
+00:54:17.450 when you say you went you lost weight
+00:54:19.950 like what were you eventually way in so
+00:54:22.680 I went to the race about 190 we lost
+00:54:25.290 quite a bit yeah bodybuilding time right
+00:54:27.540 that's over a short period of time right
+00:54:29.370 how did you lose all that way once again
+00:54:30.930 I I just worked out hard I stopped
+00:54:33.450 taking my protein so much I got off I
+00:54:36.600 was on this stuff called a nitro tech
+00:54:38.790 and I got off all the protein stuff I
+00:54:41.610 started I stopped hitting the weights so
+00:54:43.110 hard and I just became a running fool
+00:54:47.400 became the Black Forest got man pretty
+00:54:49.620 much pretty simple man that's what
+00:54:51.750 happened now when you say you were using
+00:54:53.220 compression tape on your feet and that
+00:54:55.470 your feet were jacked up what was the
+00:54:56.700 extent of the injuries so basically
+00:54:58.650 because of my pronation that I never
+00:55:00.840 figured out cuz my soul has muscles I
+00:55:04.370 always had issues with stretch fractures
+00:55:06.660 shin splints so I put a lot of pressure
+00:55:08.700 on the inside of my ankles and so that
+00:55:11.490 there's this tendon that goes up the
+00:55:13.980 backside of your I don't know if it's
+00:55:16.710 your fibula my backside that of that
+00:55:19.680 little bone backs out your foot it goes
+00:55:21.390 right up beside that lot right alongside
+00:55:23.340 that bone and that thing was just so
+00:55:26.190 fluid up on both sides that even this
+00:55:29.490 flexing my foot was just killing me so I
+00:55:32.690 when you can you know when you cast that
+00:55:34.760 thing up casting my feet always helped
+00:55:36.980 me out because it it it locked my foot
+00:55:39.109 into a position that wouldn't made me
+00:55:40.790 pronate as much so between the casting
+00:55:43.520 of that and if you watched the a bad
+00:55:45.260 water video of 2006 you see me crossing
+00:55:48.680 the finish line with this compression
+00:55:49.970 tape literally like flying on my ankles
+00:55:53.780 because I went to the race with
+00:55:55.099 compression tape on my ankles and so
+00:55:57.500 basically I'd have that on my you know
+00:56:00.470 on my ankles I had inserts in my you
+00:56:03.680 know in my shoes and also this wedge on
+00:56:06.260 the back heel of my left foot so then it
+00:56:09.140 would keep me from pronating that heel
+00:56:10.520 so much so I had all that on just to go
+00:56:12.589 around
+00:56:13.010 and I ran my ass off and went to bad
+00:56:16.160 water 2006 and with compression tape on
+00:56:20.119 my feet and walked a lot but I got third
+00:56:24.410 place do you always run with regular
+00:56:26.030 running shoes I do yeah so now I don't
+00:56:28.160 have those issues anymore all the
+00:56:30.050 stretching has opened my body up to
+00:56:31.550 where I know how it should have been so
+00:56:33.200 my alignment is pretty good it's not
+00:56:35.510 perfect so now I just run in regular
+00:56:37.670 running shoes now no no more compression
+00:56:39.530 tape no more none that stuff so if you
+00:56:41.089 see now if you look down there you'll
+00:56:42.319 see they can press it up and you'll see
+00:56:44.270 my ex-wife here in a second taking their
+00:56:47.240 compression tape off of me she's doing
+00:56:49.160 it right now
+00:56:49.670 you see her right now you know she said
+00:56:51.890 tape yeah so that's the tape I didn't
+00:56:54.140 have to wear every day of my life to run
+00:56:55.760 Wow so as you see the story may be kind
+00:56:59.300 of unbelievable but there's some proof
+00:57:01.190 right there so that's how I was so
+00:57:04.400 painful yeah I was pretty [ __ ] up as
+00:57:06.740 you see right now me trying to get all
+00:57:08.240 man yeah I'm pretty destroyed right
+00:57:10.430 there what is the most amount of miles
+00:57:12.950 you've ever run at one time yeah two
+00:57:15.770 hundred and five and thirty nine hours
+00:57:17.089 Wow non-stop whoo yeah I've had quite a
+00:57:22.819 few people on I've met quite a few
+00:57:24.740 people now over the last year so that
+00:57:26.569 have run ultras Courtney doe Walter you
+00:57:29.480 know she is she won the Moab okay yeah I
+00:57:32.660 heard my 40 rather heard about yes she
+00:57:34.819 she beat all the men by 22 miles
+00:57:37.910 something like that some crazy things
+00:57:40.130 she was first place winner she beat
+00:57:41.420 everybody else
+00:57:42.109 second place one word
+00:57:44.150 and with her I mean you would never
+00:57:46.579 believe it wouldn't talk to her she
+00:57:48.710 seemed so normal right she drinks beer
+00:57:50.930 and eats nachos needs candy ultrarunner
+00:57:53.599 man she's just silly and she's fun
+00:57:55.970 yep and there's no demon there I like
+00:57:58.700 waiting to meet a demon right you know
+00:58:00.500 I'm like where's your demon like how are
+00:58:02.450 you getting through her demons a quiet
+00:58:05.000 demon right it's it's there it has to be
+00:58:07.520 okay there's something there has to be
+00:58:09.500 there's no other people that everybody I
+00:58:11.510 know that that can do that as a demon a
+00:58:13.490 lot of us don't want admit to [ __ ] yeah
+00:58:15.109 we got him a hundred percent it has to
+00:58:17.779 be yeah so when you do this and you you
+00:58:22.640 qualify and you do that race in Hawaii
+00:58:25.579 right they just let you in after that no
+00:58:28.760 so the race in Hawaii yeah I actually
+00:58:30.859 called the race jerk threw up and there
+00:58:32.539 wasn't like a big time like I had to
+00:58:34.490 have 100-mile race I believe as I had
+00:58:36.289 and so you know 100-mile you did the
+00:58:39.650 boss of merit or you did the Vegas
+00:58:41.690 marathon yeah so I did a hundred mile
+00:58:43.279 101 miles the Vegas marathon went to
+00:58:46.220 hurt 100 did that hundred mile ER and
+00:58:48.529 all this is in a very short amount of
+00:58:50.270 time yeah so November was the first time
+00:58:52.190 jamala December was the 26 mile or not
+00:58:55.099 in Las Vegas January was the next
+00:58:59.450 hundred miles on Hawaii you know [ __ ]
+00:59:01.039 crazy that is like say if I was your
+00:59:02.690 friend and I called you up on October
+00:59:04.400 20th I go hey man how many times you run
+00:59:06.140 like run every night I see something
+00:59:08.059 crazy I'm gonna pull it up or not but if
+00:59:09.559 you can pull my race schedule for 2007
+00:59:11.510 this pull up David Goggins race results
+00:59:13.670 you can see something real crazy in a
+00:59:14.900 second they saying this is good and I
+00:59:17.869 gotta show you proof because why I know
+00:59:20.029 my story doesn't make any sense but this
+00:59:22.250 look at the dates of these races and
+00:59:24.079 we're gonna show it to you in a second
+00:59:26.000 it's um just look at the hundred miles
+00:59:29.000 and 15 hours back-to-back weekends how
+00:59:31.279 many weekends there were between races
+00:59:33.140 so if you look right here you can't
+00:59:34.940 really see it so he's look at 2007 yeah
+00:59:37.700 go all the way down keep on going 2007
+00:59:40.940 steals races there and do that okay get
+00:59:43.460 to right there so hundred mile or Hawaii
+00:59:45.140 oh gee looked up first two weeks later
+00:59:48.289 three weeks later another one that's
+00:59:49.490 50-miler a 50-miler
+00:59:51.920 a month later then looking at what 14
+00:59:56.390 days later another 50k
+00:59:58.070 50-miler month later they look at less
+01:00:01.640 than a month
+01:00:02.180 another 50-miler 53 milder in June July
+01:00:06.230 was another 100 miler bad water was
+01:00:08.600 literally reached that water was a month
+01:00:11.150 after I did that hundred mile or 135
+01:00:13.250 Marlette Ville was less than a month
+01:00:15.830 after bad water the plane 100 was three
+01:00:19.640 weeks after Leadville Angels crest was
+01:00:22.910 to attend date a week after that energy
+01:00:25.820 modeler the bare 100 was wet thirteen
+01:00:29.360 days after that hundred mile or she and
+01:00:31.910 then I ran the two hundred and it said
+01:00:33.800 to her and three point five but I didn't
+01:00:35.660 ran toward its 205 miles around there
+01:00:37.400 but what's not in there was that
+01:00:40.520 McNaughton race I did in two thousand or
+01:00:42.890 fifty mile race I also did in two
+01:00:45.110 thousand seven that wasn't lifted so
+01:00:47.810 that was just my 2007 year that's insane
+01:00:51.110 yeah so do you think that is what [ __ ]
+01:00:53.210 your body up no no no because I I still
+01:00:56.480 run the same mileage now well [ __ ] my
+01:00:58.970 body up was hell week really oh yeah you
+01:01:01.910 don't go through three hell weeks in one
+01:01:03.110 year so I so what happened was when I
+01:01:05.390 realized that my body is really jacked
+01:01:06.740 up was I went I was a big-time squatter
+01:01:09.380 loved squatting and I went through the
+01:01:12.980 first hell week got messed up ii hope
+01:01:14.930 you got all the way through then throw
+01:01:16.460 hope we could got all the way through
+01:01:17.270 and my third hell we could hit me that
+01:01:18.230 guy died on Thursday and then that hell
+01:01:21.230 weekend and I graduated pulmonary edema
+01:01:23.720 it was a code name was John stop it code
+01:01:27.950 is [ __ ] hell week the Pacific Oceans
+01:01:31.160 never warm and it rained the whole time
+01:01:33.500 the whole time is rain and he pretty
+01:01:36.290 much just drown on his own fluid pretty
+01:01:38.090 much we were in the pool doing some
+01:01:40.040 evolution he sunk to the bottom his
+01:01:42.530 temperature was hot he missed a lot of
+01:01:44.450 hell week for getting pulled out for
+01:01:46.280 different stuff he wouldn't go quit and
+01:01:47.680 I'm heating up dying he'll week but um
+01:01:50.240 yeah so anyway after hell week ended I
+01:01:54.200 want to go back to the gym you know so
+01:01:56.600 second phase happened I face like I can
+01:01:58.460 get back in the gym so I jacking my
+01:01:59.630 weight
+01:01:59.990 I love jack and weight and I realized I
+01:02:02.570 couldn't squat so I went from squatting
+01:02:05.210 a lot to I couldn't even squat the bark
+01:02:06.980 and my lower back was all [ __ ] up I
+01:02:08.660 was like I don't know what's going on
+01:02:09.990 it was cuz this this muscle so inhale
+01:02:13.440 week your hip flexors are so and I went
+01:02:16.380 through so many of them so fast
+01:02:17.940 and so the hardest part of buds I went
+01:02:20.850 through three times not not the healthy
+01:02:22.619 part yes one the hardest parts but it
+01:02:24.990 was the initial part of the where
+01:02:26.850 everybody sees on TV the log PT to surf
+01:02:30.180 torture the dad gone boats over your
+01:02:32.640 head law all that [ __ ] I went through
+01:02:34.200 that person three times in one year and
+01:02:37.550 over a period of time my hip flexors got
+01:02:40.020 so tight that is jacked me up it jacked
+01:02:44.460 me up for my hip flexor so so always
+01:02:46.020 being so cold and so stressed out and
+01:02:48.600 everything led up to it
+01:02:50.430 but this really was the part that I
+01:02:53.040 noticed I could squat before hell week
+01:02:54.840 or before my first time going to buds
+01:02:56.840 after after buds I couldn't I couldn't
+01:03:01.020 squat anymore do you just think it might
+01:03:03.510 just be because your body was exhausted
+01:03:05.640 no cuz I for 12 years so I would I would
+01:03:08.880 go back and tough it out like like with
+01:03:10.860 Joe burns he was squatting so I said
+01:03:12.270 [ __ ] I almost caught with Joe burns but
+01:03:14.700 I just couldn't squat cuz that that
+01:03:16.619 muscle was attached here at t12 so what
+01:03:18.810 was it doing - is it locking up it was
+01:03:20.460 pulling and so it made my hips feel like
+01:03:23.640 I couldn't sink my ass oh I couldn't
+01:03:26.070 sink so his incredible pain and then
+01:03:28.380 with the weight pushing me down and then
+01:03:31.440 trying to push up the pain was just is
+01:03:33.869 just too much so so this is all range of
+01:03:35.760 motion is always in motion issues yeah
+01:03:37.470 Wow that that's an important thing for
+01:03:39.210 my friend cam Haynes who doesn't stretch
+01:03:40.980 he's another friend of mine who runs
+01:03:43.400 ultra races he ran that moab 240 he's
+01:03:47.460 run the bigfoot 205 he's run a few of
+01:03:49.920 those right um i know he's listening go
+01:03:52.650 stretch dude yes support man it was
+01:03:54.840 especially if you work in that hard
+01:03:56.310 right if you're doing that much yeah
+01:03:58.140 you're you're definitely locking up he
+01:03:59.820 could barely touch his toes yeah that's
+01:04:01.530 not a good thing that's not good no no
+01:04:03.300 it comes back to hurt you inside pretty
+01:04:05.100 soon now how flexible you now cuz I
+01:04:06.750 would imagine you probably a [ __ ]
+01:04:07.770 ballerina at this point because sad when
+01:04:09.780 your brain I'm trying to get there I'm
+01:04:12.780 trying to get there so I stretch every
+01:04:14.280 night for at least two hours there's a
+01:04:15.600 thing that people said that it always
+01:04:17.100 pissed me off like because I'm pretty
+01:04:18.990 flexible they said oh you're naturally
+01:04:20.910 flexible people have a natural threshold
+01:04:22.530 like
+01:04:23.400 oh they don't like a doctor told me that
+01:04:25.260 I go you don't know what you're talking
+01:04:26.430 about I'm like you don't know what you
+01:04:27.750 talk about cuz most people don't push
+01:04:28.980 themselves past that pain that stretch
+01:04:31.020 pain alright people want to put a title
+01:04:32.819 on your mask
+01:04:33.510 easy for them oh yes exactly natural
+01:04:36.059 exactly now you don't work hard enough
+01:04:38.039 [ __ ] yeah people built like
+01:04:40.260 chimps aren't usually flexible right you
+01:04:42.119 have to you have to force yourself to do
+01:04:43.950 that's right and I know it because I had
+01:04:46.200 a friend my friend Tom our dog nah he
+01:04:47.970 was a football player Jack big fick dude
+01:04:50.039 terrible flexibility was taking
+01:04:51.990 Taekwondo with me
+01:04:52.890 and over the course of a couple years I
+01:04:54.839 saw that dude eventually develop a full
+01:04:56.730 split there you go and he just did it
+01:04:58.230 through his mind yes was everybody else
+01:05:00.119 was done training that guy would be on
+01:05:01.529 the mat constantly stretch and always
+01:05:03.930 working out cuz he had built his body up
+01:05:06.180 so strong through all those years of
+01:05:08.190 squatting and lifting yeah that he just
+01:05:10.440 you know he was all tense everything was
+01:05:12.420 just like this super powerful right but
+01:05:14.609 all like very tense that's why I stopped
+01:05:16.380 you know that's why I never stretched
+01:05:18.059 because I wanted that strength yeah yeah
+01:05:19.920 you want that tight muscle but no I
+01:05:21.450 don't think it is stupid yeah I think
+01:05:23.369 you're not supposed to stretch before
+01:05:24.869 you do big physical activities because I
+01:05:27.779 think it does like weaken you somewhat
+01:05:29.339 but I don't think being flexible overall
+01:05:31.740 makes you weak or not at all yeah what
+01:05:34.559 certainly doesn't from martial arts
+01:05:35.970 because you need that flexibility to
+01:05:37.890 have leg dexterity to be able to kick
+01:05:39.510 right it's got to be fluid where it's
+01:05:41.460 not tightened up by the restriction of
+01:05:43.859 the motion of your body I get it it's
+01:05:45.690 truth I just think people are for
+01:05:47.880 whatever reason and I'm one of those
+01:05:50.329 drone on too much about yoga I'm like
+01:05:53.010 one of those vegans it's like you got to
+01:05:54.720 do it man right he's trying
+01:05:56.400 I get it knowing like a born-again
+01:05:57.779 Christian or something I'm getting that
+01:05:59.700 way now man that way now for anybody
+01:06:02.339 does anything hard like you know if you
+01:06:04.710 do anything like with weightlifting type
+01:06:07.920 [ __ ] or martial arts type [ __ ] where
+01:06:10.049 it's just everything's explosion its
+01:06:12.539 lifting it's heavy
+01:06:13.859 push push push right yoga just will
+01:06:16.740 balance your [ __ ] out yeah well yeah
+01:06:19.140 really well man and there's all these
+01:06:20.579 people that resist it like there was
+01:06:22.349 some article recently that it was
+01:06:23.910 something along the lines of hot yoga is
+01:06:26.130 just trendy nonsense
+01:06:27.599 I've read that and then even in the
+01:06:29.640 article it talked about that there might
+01:06:31.500 be some benefits in terms of like the
+01:06:33.650 strengthening your arteries and they
+01:06:35.640 didn't even mention
+01:06:36.640 heat-shock proteins is a study going on
+01:06:38.830 right now I believe it's at Harvard one
+01:06:41.440 of my friends was telling me about it
+01:06:42.670 where they're they're trying to find the
+01:06:44.860 benefits of 90 minute hot yoga classes
+01:06:46.990 because they think it might mirror the
+01:06:49.150 observed benefits of sauna which they
+01:06:51.610 already know for a fact has big benefits
+01:06:55.150 because of your body producing heat
+01:06:56.890 shock proteins to deal with the heat
+01:06:58.330 right that's why I put that sauna in
+01:06:59.740 here man I go in that [ __ ] all the
+01:07:01.210 time well no one can tell me doesn't
+01:07:02.650 work that's big it's proof positive you
+01:07:04.930 changed my life it wasn't a medication
+01:07:06.970 or this or a dress it was stretching
+01:07:08.770 yeah it was yoga stretching all that
+01:07:10.720 stuff combined changed it well I just
+01:07:12.280 think it balances out your body in those
+01:07:14.770 static poses where you're just holding
+01:07:16.780 the pose and it just it works you out in
+01:07:20.470 a weird way
+01:07:21.100 that one's a person you just don't get
+01:07:22.720 lifting weights or hitting the bag or
+01:07:25.030 anything out you're just not gonna get
+01:07:25.990 that that kind of working out I can't
+01:07:27.760 agree with you more it's so difficult
+01:07:29.190 crazy get your ass off and [ __ ] and
+01:07:33.430 you're like this is like the silent
+01:07:34.930 struggle it's humbling nobody knows it's
+01:07:37.300 like if you see like two doorways right
+01:07:39.760 and one of them is like [ __ ] CT Ollie
+01:07:42.450 Fletcher's [ __ ] super pump iron
+01:07:46.030 addicts gym which is hard work and then
+01:07:49.150 right next to it is the yoga studio
+01:07:50.860 you're like well once you get done with
+01:07:52.990 all that hard work you'll go over to
+01:07:55.060 that yoga studio no there's two
+01:07:56.950 different kinds of hard work going on
+01:07:58.720 it's no joke two different kinds of hard
+01:08:00.370 work yes sir so what do you do now in
+01:08:03.580 terms of like you got over this five
+01:08:06.490 years ago you're in this bad situation
+01:08:08.260 when your body's not working right now
+01:08:09.850 everything's working great again well I
+01:08:11.920 had two heart surgeries also whoa yeah
+01:08:14.590 so you know your heart so I had a hole
+01:08:17.950 in it so you know you're not supposed to
+01:08:20.710 have a hole in your heart and be a seal
+01:08:21.729 and it reborn with it I was born with it
+01:08:24.819 it went undetected and me pushing so
+01:08:27.700 hard so around in 2009 I was trying to
+01:08:30.819 first race across America and I just
+01:08:34.090 couldn't go anymore another pitfall in
+01:08:35.920 my life was the hole and I was pretty
+01:08:38.380 much off active duty steel for three
+01:08:40.060 years yeah you know I had two hearts for
+01:08:41.979 them trying to fix it so the hole was
+01:08:43.479 significantly large look how big that
+01:08:45.310 they say it was as big as a quarter now
+01:08:48.490 Mike Holly Hill is it big as a quarter
+01:08:49.779 yeah that's
+01:08:50.380 a pretty big hole in your heart because
+01:08:51.939 they had to helix patches I'm like
+01:08:53.529 that's impossible that the helix patches
+01:08:56.020 they're in my heart so the two stents
+01:08:57.339 what is a helix patch it is like a
+01:08:59.609 little mesh very like what they do for
+01:09:02.799 hernias like something maybe something
+01:09:04.299 like that so they went through my
+01:09:06.069 femoral artery and they placed this
+01:09:08.020 patch but to go through your artery yeah
+01:09:09.880 everything my femoral artery yeah
+01:09:11.229 looking with a camera yeah whoa so what
+01:09:14.049 no the cameras down through my throat
+01:09:15.310 whoa and they put this catheter through
+01:09:18.279 my femoral artery get went to my heart
+01:09:20.259 they they went and they took this helix
+01:09:23.920 patch they place it in there and then
+01:09:26.948 they found out six months later that the
+01:09:28.750 hole wasn't covered up enough yet
+01:09:30.179 because always I mean in the huge patch
+01:09:32.710 was very damn big so they put it go back
+01:09:35.799 in there in 2010 how does the patch
+01:09:38.259 adhere to your heart I guess your heart
+01:09:40.540 heals around the patch so but how did
+01:09:42.609 they stick it in place I I guess they
+01:09:45.219 put it with the holes at uh-huh and then
+01:09:47.319 it kind of like inflates oh wow the hole
+01:09:49.839 is that and then that that thing goes in
+01:09:52.270 there and then it kind of covers a hole
+01:09:54.250 and in the heart so there's two things
+01:09:56.350 in my heart right now that the heart
+01:09:58.210 just kind of covered up whoa okay so
+01:10:00.639 there you go Jamie's got an image of it
+01:10:03.850 for us whoa so so it's attached to this
+01:10:07.750 little probe right and then they put it
+01:10:10.750 over the area where the injury is Wow
+01:10:14.050 that's insane yeah atrial septum defect
+01:10:16.750 if I had atrial septal defect so
+01:10:19.600 basically everything I had done I then
+01:10:21.159 got from medicine oh [ __ ] you do I'll be
+01:10:24.520 done that's so crazy that they could do
+01:10:26.469 that yeah so I was out for I was
+01:10:28.630 off-duty for three years so I stuck I
+01:10:30.580 was in a recruiting area for three years
+01:10:33.790 trying to get back on active duty and
+01:10:35.670 that was my life for three years so they
+01:10:38.409 put that patch in yep and now your
+01:10:41.380 heart's 100% 100%
+01:10:43.420 it sounds percent Wow yeah that's
+01:10:45.940 incredible yeah I was losing you know
+01:10:48.610 blood and I was just I was a bad off
+01:10:50.889 it's just amazing that you were able to
+01:10:52.480 do all that with a hole in your heart
+01:10:54.159 that's what the doctors were saying you
+01:10:55.659 know because eight naw I was a seal so
+01:10:56.920 when I went in and the doctor that found
+01:10:59.290 the hole are like so they'd gave me EKGs
+01:11:02.320 all this stuff once again
+01:11:03.980 may you after I ran like 205 miles you
+01:11:07.100 know Ryan made you're in great shape I'm
+01:11:09.260 like man I just don't feel good like
+01:11:11.900 walking up the stairs this making me
+01:11:13.490 jacked up so the doctor doc Shrek he's
+01:11:17.120 like you know gave me he can go to the
+01:11:18.830 doctor get an echocardiogram so I'm in
+01:11:21.680 there getting echocardiogram just
+01:11:23.180 chilling out in there and the guys
+01:11:24.800 talking to him he has his little wand in
+01:11:26.240 my heart
+01:11:26.750 we're bullshitting about stuff and he
+01:11:28.760 when people get quiet [ __ ] not good
+01:11:32.630 man so he's in there this has one of my
+01:11:34.910 heart chilling out yeah man we doing
+01:11:37.340 yeah you know what's going on now like
+01:11:41.150 he says I'll be right back
+01:11:42.860 he goes and gets a doctor doctor comes
+01:11:45.740 in puts thing I'm a heart the doctor
+01:11:48.830 gets another doctor now I'm just
+01:11:51.920 freaking the [ __ ] out I'm like okay cuz
+01:11:53.900 when it comes to your heart
+01:11:54.740 that was a big deal so they come back in
+01:11:57.140 they say hey we can stop the
+01:11:58.640 echocardiogram I mean he talked you out
+01:12:00.770 in the hallway you have a hole in your
+01:12:02.780 heart and the guy didn't know that I was
+01:12:05.990 he knew I was Navy god I don't think he
+01:12:07.790 was a seal because not me black guys are
+01:12:09.530 seals and he had a conversation about
+01:12:11.780 you know we gotta fix this real quick I
+01:12:14.510 said yeah I mean then I came up that I
+01:12:16.070 was the seal he said man you could have
+01:12:18.410 died jumping you could die diving you
+01:12:20.900 could have died into all this stuff cuz
+01:12:22.550 basically the hole in your heart if it
+01:12:24.770 gets plugged with something like
+01:12:26.480 anything like you know let's say you get
+01:12:27.890 a bubble from diving or something like
+01:12:30.230 that
+01:12:30.500 you got died right so I I I call it luck
+01:12:34.430 I call it look so I I got through two
+01:12:38.510 surgeries they put me back on they give
+01:12:40.910 you the first one yeah and when do they
+01:12:42.650 realize that it's not done not good
+01:12:44.030 enough so they take you back and you get
+01:12:45.560 a bubble study a bubble test so it's so
+01:12:48.140 they like literally send bubbles that
+01:12:50.300 way safe bubbles that way to see if the
+01:12:52.940 bubble goes through your heart so they
+01:12:54.920 have this this echocardiogram again and
+01:12:57.680 they hook you up I think to ID or
+01:12:59.870 something like that and they throw these
+01:13:01.010 bubbles through your heart and they see
+01:13:03.470 if it goes through after six months when
+01:13:06.110 I should've been healed up the bubble
+01:13:08.090 went through so had to tell me then hey
+01:13:11.300 we got a you know you're not you're not
+01:13:14.090 good to go so
+01:13:15.409 I had to take a year before I have
+01:13:19.340 another surgery because because that
+01:13:21.889 patch had to be completely completely
+01:13:24.380 healed so they can go back in time you
+01:13:27.079 knew you had a hole right so so then you
+01:13:29.269 add a hole because of the heart surgery
+01:13:30.650 probably all this time like when you're
+01:13:32.300 waiting for it details you know you have
+01:13:33.979 an extra hole yes I don't have a hole
+01:13:35.360 yes
+01:13:36.050 what were you allowed to do with your
+01:13:37.249 body then well at that time they go you
+01:13:39.139 know do how you feel comfortable and so
+01:13:42.169 you know the hole is not going to kill
+01:13:44.599 you right now but you can't die if you
+01:13:47.150 can't jump you pretty much wouldn't
+01:13:48.800 steal anymore so I was a recruiter for a
+01:13:50.360 period of time so basically I was crazy
+01:13:55.249 about that is before my second surgery I
+01:13:57.409 was actually training for Delta Force I
+01:14:00.050 was I wanted to go to Delta and I was
+01:14:04.189 rucking ruck running a lot and before my
+01:14:07.459 second truck running I mean you're
+01:14:08.539 running with a package I pack on my back
+01:14:09.919 with some weight on how heavy is the
+01:14:11.179 pack 50 60 pounds and you run with that
+01:14:13.579 on well you're supposed to hike or hump
+01:14:15.800 like ruck hopping right I ran with it
+01:14:18.469 because I was you know I that's what I
+01:14:21.439 did right so the date of the day of the
+01:14:24.800 day of heart surgery I did a ruck run
+01:14:27.739 Jesus because I knew I was gonna be out
+01:14:30.260 of commission for a while so [ __ ] it
+01:14:33.380 matter get my last one in dude Jesus
+01:14:35.539 Christ all I could do I have my training
+01:14:37.820 launch after my second heart surgery all
+01:14:39.320 I could do was walk so I became an ultra
+01:14:41.659 Walker I walked my [ __ ] ass off and I
+01:14:45.409 over a period of time it took a year for
+01:14:47.179 that thing to heal up in the hill you
+01:14:49.519 know my first bubble study after my
+01:14:51.079 second heart surgery came back negative
+01:14:52.880 or positive the bubble went through
+01:14:55.579 again oh no and they're gonna crack me
+01:14:57.919 open oh man over that period of time my
+01:15:00.409 heart healed around that thing nicely
+01:15:02.119 and I passed a second bubble test so the
+01:15:04.880 first bubble test was how long after a
+01:15:06.769 year it was so the first bubble test
+01:15:08.449 after the first surgery was six months
+01:15:10.400 and then you had to go through a full
+01:15:12.409 six months after that variety heal then
+01:15:14.929 you have the second heart surgery and
+01:15:16.459 when does the bubble test fail after the
+01:15:18.139 second heart surgery it was about six
+01:15:20.030 months Jesus Christ and they said and
+01:15:21.979 the doctor looked at me and said you
+01:15:22.969 know I'm sorry to inform you maybe we
+01:15:24.919 have to crack your chest open the next
+01:15:26.570 time they're really getting there
+01:15:27.989 and so I sat back thinking this could be
+01:15:29.880 a third heart surgery and then that one
+01:15:34.290 they said we have to wait for six months
+01:15:36.330 to see if this thing's gonna close up
+01:15:37.800 right yeah I came back thinking man I'm
+01:15:40.050 about to get cracked the [ __ ] open and
+01:15:41.719 that bubble got pinned up man Wow when
+01:15:45.630 they go through maybe forced it through
+01:15:47.070 with your mind
+01:15:51.020 it may add something to visualize holy
+01:15:54.120 [ __ ] man that is crazy yeah it's crazy
+01:15:56.790 one on a ruck run with a hole in your
+01:15:58.410 heart - well I did it for several years
+01:16:00.420 I said [ __ ] it
+01:16:01.320 keep on going man that's amazing now
+01:16:06.150 after all said and done everything's
+01:16:08.400 good now yeah everything's I mean I'm
+01:16:10.080 sure supposed to pop up in my [ __ ]
+01:16:11.430 ass not to do that you know everything's
+01:16:13.620 good right now
+01:16:14.400 I'm always waiting for the next thing to
+01:16:15.930 pop up and I hang on the same way I was
+01:16:17.730 attack it but yeah I said right now I'm
+01:16:19.170 in the best shape my 43 years old just
+01:16:21.330 turned 43 February 17th I am in the best
+01:16:25.500 shape my life I'm not knocking on wood
+01:16:26.880 because life [ __ ] it life comes at you
+01:16:29.340 dude so right [ __ ] knocking on wood come
+01:16:31.350 at me I mean I would think that you
+01:16:33.239 would be a go-to guy for injuries yeah I
+01:16:36.330 give anybody had a ball I've had them
+01:16:38.790 all I found when you broke the world
+01:16:41.400 record for chin-ups didn't you rip your
+01:16:43.110 arm apart pull-ups yeah so if you pull
+01:16:44.940 up the picture man there's a picture of
+01:16:46.230 my hand you'll see I'll know what is it
+01:16:49.110 pull ups are so pull ups are here hands
+01:16:51.030 out hands out and chin ups our hands
+01:16:53.460 right hands forward so I failed three
+01:16:55.770 times before I finally got it the third
+01:16:58.350 time and I the first time I ripped the
+01:17:01.830 [ __ ] on my forearm and then the second
+01:17:04.770 time you'll see there's a picture of my
+01:17:07.980 hand and it it's a third-degree burn so
+01:17:11.550 that's my hand oh Jesus man what in the
+01:17:15.239 [ __ ] is going to look at you a bit by a
+01:17:17.040 wolf
+01:17:17.520 so what's funny about that as you see
+01:17:19.140 that uh that doesn't create after one
+01:17:21.510 pull-up so if you can imagine the pain
+01:17:23.880 of because you know you have one contact
+01:17:25.410 point that's it
+01:17:26.910 mmm you like running you can overcome it
+01:17:29.190 cuz it these big giant legs and right
+01:17:31.140 it's different when you have these
+01:17:32.940 little fragile
+01:17:33.930 punk-ass hands touching the bar no
+01:17:37.380 imagine four thousand thirty pull-ups
+01:17:39.750 how many times you're coming
+01:17:41.369 that bar coming off right now way 207
+01:17:43.919 pounds at the time so I was I was a
+01:17:45.840 bigger guy I'm like 195 or 185 now so I
+01:17:48.989 was almost 22 pounds heavier so I was a
+01:17:52.079 lot bigger than I am right there ma'am
+01:17:53.459 you look pretty get that [ __ ] man
+01:17:55.499 so you were doing it in sets of five
+01:17:57.780 sets of five so as you see I have these
+01:18:00.479 different people who are witnessing you
+01:18:02.699 you have to have your your your number
+01:18:05.099 there to make sure that you're you know
+01:18:07.699 qualified for the Guinness Book of World
+01:18:09.389 Record that's 1450 I have a long way to
+01:18:11.610 govern another four thousand and fifteen
+01:18:13.829 pull-ups to go hurt Jesus Christ so yeah
+01:18:17.010 and how long did you do this over 24
+01:18:19.019 hours it was seven so I brought it at 17
+01:18:21.209 Wow and I was [ __ ] over it what did
+01:18:25.860 it feel like in the last chin up
+01:18:27.629 you know what actually here's a video
+01:18:28.829 that we have and I was chasing this guy
+01:18:32.039 named Steven Highland so this guy named
+01:18:34.919 Steven Highland had the record and the
+01:18:37.139 video is my last three pulls for broke
+01:18:39.239 the record I'm talking so much [ __ ]
+01:18:40.949 there's another [ __ ] I'm like hey
+01:18:42.899 [ __ ] you thought was good get it
+01:18:44.429 huh I told you [ __ ] ass [ __ ]
+01:18:46.289 I'm coming after you I'm here now is
+01:18:48.899 this me talking [ __ ] it's a cool video
+01:18:50.610 but I felt um I felt nothing I was just
+01:18:53.760 happy I have to do anymore
+01:18:54.959 I just 67,000 pull-ups in nine months G
+01:18:58.050 in training first record for 4000 and
+01:19:01.699 the failures so I I did the first time
+01:19:04.889 in September failed miserably on this
+01:19:07.320 today shot the twenty five hundred and
+01:19:08.699 eighty eight or something like that
+01:19:09.959 film is me for millions of people two
+01:19:12.780 months later November tried again failed
+01:19:16.409 again two months later in January 19th I
+01:19:19.879 finally [ __ ] got it so after I got it
+01:19:23.309 wasn't like I'm happy it was like I
+01:19:25.769 gotta do more [ __ ] pull-ups anymore
+01:19:27.360 Roger that so it was I had a [ __ ]
+01:19:30.209 check that [ __ ] but you were doing them
+01:19:33.449 when I got here today you know why cuz
+01:19:34.889 now it's a party dude I don't like doing
+01:19:38.639 this we could get somebody knocks him
+01:19:40.260 out you don't like doing them so you got
+01:19:41.879 to do them that's my whole life
+01:19:43.379 isn't it like someone someone gets drunk
+01:19:44.879 on a certain whiskey like if they smell
+01:19:47.280 it they'll get disgusted like like
+01:19:49.320 Jagermeister or something like that they
+01:19:51.179 smell it no oh right is that what it's
+01:19:53.399 like with you chin ups
+01:19:54.650 along with envelopes with a lot of a lot
+01:19:56.360 of things yeah right now I'm like
+01:19:57.560 running out like and people don't
+01:19:58.730 believe it but you know I was I was a
+01:20:00.620 big guy twice in my life so hence the
+01:20:04.010 reason why I just don't like running man
+01:20:06.260 it hurts it's brutal it sucks going out
+01:20:07.850 and I'm gonna be gone for two hours or
+01:20:09.920 I'm gonna be going 49 hours right
+01:20:12.620 running on a one mile track
+01:20:14.469 [ __ ] I'm not crazy man it sucks I mean
+01:20:18.290 you know people put me in this category
+01:20:19.640 of you must be some crazy guy who loves
+01:20:22.190 it no man no that's why I do it though
+01:20:25.070 that's the only way to couch your [ __ ]
+01:20:26.780 brain man I want me to get hard a lot
+01:20:28.100 people take these classes on mental
+01:20:30.230 toughness I even steals in the class
+01:20:31.580 about visualization self-talk eat an
+01:20:34.400 elephant one by that time breathing
+01:20:35.659 control Roger that you gotta put
+01:20:38.840 yourself in hellacious situation it's a
+01:20:41.300 lifestyle how are you going to react how
+01:20:44.659 are you gonna react
+01:20:45.440 all that training goes out the [ __ ]
+01:20:47.210 door when you're in the [ __ ] cold
+01:20:49.159 water and you're [ __ ] miserable it's
+01:20:51.560 the first hour of a hundred thirty hours
+01:20:53.390 of hell week and that first wave goes
+01:20:55.250 over your head and you're the codis
+01:20:57.050 you've been in your life and your mind
+01:20:58.340 goes from our one to our one [ __ ]
+01:21:00.409 thirty all that [ __ ] self talking
+01:21:02.840 [ __ ] dude you ain't think about anything
+01:21:04.730 about getting the [ __ ] out of here but
+01:21:06.350 if you live this [ __ ] on a daily basis
+01:21:09.230 and you know how to calm your mind down
+01:21:10.699 this self-talk will help all that stuff
+01:21:12.949 will help but usually we react we have
+01:21:15.949 pain we have suffering we react and we
+01:21:17.750 react about get the [ __ ] out of here we
+01:21:20.810 got to go it's those people were able to
+01:21:22.909 control that [ __ ] feeling and [ __ ]
+01:21:24.890 flight and say no I'm a [ __ ] there's a
+01:21:27.770 way through this it's not going to be
+01:21:30.170 your forever I'm not cold right now
+01:21:31.610 I let the three of them I'm not cold now
+01:21:34.130 I'm in a nice warm studio with you you
+01:21:36.290 got to think about that [ __ ] it's just
+01:21:38.000 going to end it's going to end but we
+01:21:39.920 don't know that we don't think that at
+01:21:41.120 that time it's gonna last forever and
+01:21:42.560 then you get to sit back on Friday there
+01:21:44.390 by walking across the you know back on
+01:21:47.000 the grinder all the 16 17 guys that
+01:21:49.250 graduated Hill week and you a chance to
+01:21:51.530 watch these guys victorious
+01:21:53.030 and then you get the chance think about
+01:21:54.710 that you take that hot warm shower first
+01:21:57.560 thing that comes to your [ __ ] minds
+01:21:58.640 why the [ __ ] that I quit so what keeps
+01:22:00.679 me going
+01:22:01.250 I've quit several things I know what's
+01:22:04.520 on the back end the [ __ ] quitting
+01:22:05.960 it's a lifetime of thinking about why
+01:22:08.719 [ __ ] did I do that and I ain't [ __ ]
+01:22:11.659 doing that there's something about
+01:22:14.449 talking to a guy like you that a lot of
+01:22:16.849 people hope that you're gonna say some
+01:22:19.309 magic thing that's gonna click in their
+01:22:21.229 brain everybody gets change who they are
+01:22:23.030 like what is it what is the thing that's
+01:22:25.010 why people go to these self-help
+01:22:27.159 conferences and they take these classes
+01:22:30.260 and they hope that someone's gonna say
+01:22:33.619 something that changes the way their
+01:22:35.690 mind works it's hilarious to me it is
+01:22:37.849 it's kind of hilarious to me too but
+01:22:39.619 what is also hilarious is that what
+01:22:42.079 you're saying is that you have to do
+01:22:46.159 those things you have to suffer you have
+01:22:48.710 to live in it you have to be comfortable
+01:22:50.510 in it and then maybe some of that [ __ ]
+01:22:54.559 will help you a little bit along the way
+01:22:55.849 period and I went to I was a when I was
+01:23:00.050 a still recruiter I got invited to MIT
+01:23:02.030 smart ass [ __ ] there man I'm
+01:23:04.369 not that I miss a garanimal Dumber
+01:23:06.650 knuckle-dragger
+01:23:07.429 and there was this guy that I forget his
+01:23:11.179 name but he was like the top head head
+01:23:12.860 guy old white guy you know all genius
+01:23:16.309 doubt and we were on this panel and they
+01:23:19.460 were asking us all these questions about
+01:23:21.110 the mind mental toughness and [ __ ] he
+01:23:22.880 was answering them and I wasn't
+01:23:23.869 answering any questions now I'll never
+01:23:25.849 forget he was just answering off of
+01:23:27.530 theory mmm he never put his [ __ ] ass
+01:23:30.079 and [ __ ] you read a bunch of [ __ ]
+01:23:31.999 books and you think that you know how
+01:23:33.829 the [ __ ] mind works and [ __ ] I've
+01:23:35.179 gone through hell just a kid and then
+01:23:37.969 all the way up until now right so I know
+01:23:40.989 so that theory is [ __ ] yeah there's
+01:23:44.599 a lot of good stuff out there you can
+01:23:45.889 read from people but I had lived hell
+01:23:48.829 and when you put yourself in hell that's
+01:23:51.860 the only time you can figure out how the
+01:23:53.690 [ __ ] to get through that [ __ ]
+01:23:55.219 you can't you can't read somebody else's
+01:23:57.289 book about some theory on how to do [ __ ]
+01:23:59.869 some guy who was set up in there a nice
+01:24:01.190 warm office and read and wrote some book
+01:24:04.190 with a nice cup of coffee in the [ __ ]
+01:24:05.630 hand no I want to see that guy who put
+01:24:09.530 immersed himself in [ __ ] hell and he
+01:24:12.260 thought about quitting and leaving him
+01:24:14.239 and his wife and his kids and why am I
+01:24:16.249 here is it is it worth it all this crazy
+01:24:18.679 [ __ ] it still said if I
+01:24:22.120 not a way to get through it so basically
+01:24:25.660 that's that's the bottom line of it all
+01:24:27.520 we all want to read about how we can
+01:24:30.370 quickly get somewhere that's why that
+01:24:32.410 six-minute abs and also it's so powerful
+01:24:35.130 did you make it some results from it
+01:24:37.930 they're not permanent
+01:24:38.950 the permanent result comes from you
+01:24:41.550 [ __ ] I say it all time you have to
+01:24:44.740 suffer you have to make that a tattoo on
+01:24:48.970 your [ __ ] brain so when that hard
+01:24:51.520 time comes again you don't forget it
+01:24:54.270 you may forget it for a second but you
+01:24:56.860 can go back in the cookie jar call it
+01:24:58.540 it's a it's something that we've all
+01:25:00.820 indoors I call it the cookie jar and we
+01:25:03.220 often forget how hard we are but you got
+01:25:05.440 reflect back take a cup of sighs reflect
+01:25:07.300 I've been through this I've been through
+01:25:08.650 that and then remind yourself I'm a bad
+01:25:10.960 [ __ ] and then you can get do
+01:25:14.050 that [ __ ] but if you don't believe it
+01:25:15.610 you ever endured [ __ ] you're just
+01:25:18.580 blowing smoke man and you're not gonna
+01:25:20.680 get to anything what was this guy saying
+01:25:22.090 look what was his theories that he was
+01:25:23.860 throwing out there his theories was
+01:25:25.120 about I forget exactly what it was was
+01:25:26.980 there some about what the mind does
+01:25:28.450 under stress and how we can't he said
+01:25:33.040 how we can't do something and I did it I
+01:25:37.080 did what he said we couldn't do like
+01:25:39.400 what was he saying he couldn't do it was
+01:25:41.530 somebody if you're born if you're born a
+01:25:45.340 certain way somebody if you're born a
+01:25:47.920 certain way you can't become this way it
+01:25:52.210 was totally saying that would Who I am
+01:25:54.760 now like I had to be born with some not
+01:25:58.240 genetic power or some some gift from God
+01:26:01.450 but I had to have some kind of special
+01:26:02.800 gift had to have some kinda special gift
+01:26:05.350 I forget what set me off but was that we
+01:26:07.690 had to be - to be somewhere you had to
+01:26:10.570 be born with it what was the concept and
+01:26:13.570 I know what I was born with and I know
+01:26:16.300 the battle that I had in my mind so when
+01:26:19.690 he said it is sad to look at my face and
+01:26:21.970 some on the crowd ask me a question yeah
+01:26:24.130 I totally count addicted everything he
+01:26:25.720 said and I was like nah man I mean I
+01:26:27.850 [ __ ] know for a fact that you can be
+01:26:31.000 this [ __ ] up dude like really [ __ ]
+01:26:34.780 up dude
+01:26:35.320 and with the right mindset it is it
+01:26:39.340 sounds so easy with the right mindset
+01:26:41.260 doesn't sound easy
+01:26:42.550 it's know what you're saying it sounds
+01:26:44.230 very simplistic answer right you can you
+01:26:48.010 can't but you have to go into the dark
+01:26:50.020 chambers that we often shut off and you
+01:26:53.140 got to open them up you can open up and
+01:26:54.460 fight that [ __ ] demon get in there
+01:26:56.440 talk to that [ __ ] and say what's
+01:26:57.910 up and we often take that we all like to
+01:27:01.210 take this four-lane highway the easy
+01:27:03.580 highway has has [ __ ] signs it has
+01:27:06.400 restaurants we all loved that four-lane
+01:27:08.830 highway we always step over the shovel
+01:27:11.250 and all I did was I picked up that
+01:27:13.840 [ __ ] shovel and that shovel I made my
+01:27:16.180 own path and you may have big boulders
+01:27:18.430 and [ __ ] they may be getting towards and
+01:27:20.320 miles up the road faster than you but
+01:27:22.270 going through this path of life this
+01:27:23.920 journey over here that you make yourself
+01:27:25.630 that's incredibly difficult but it comes
+01:27:29.140 out to the other end of that
+01:27:29.980 [ __ ] is some glorious [ __ ]
+01:27:31.990 that you can't even explain to people
+01:27:33.670 and we're afraid bottom line is most of
+01:27:37.000 us even the people have all these
+01:27:38.020 theories and [ __ ] it's easier to accept
+01:27:40.900 the fact that I'm just not good enough I
+01:27:43.780 wasn't made to do that and yeah some of
+01:27:46.810 us can't be LeBron [ __ ] James but
+01:27:49.660 I'll tell you right now man we can do a
+01:27:51.100 lot of [ __ ] when it comes to this pure
+01:27:52.780 long guts and willpower and getting
+01:27:54.700 through [ __ ] we have a lot more with a
+01:27:56.470 lot more and we think we have yeah the
+01:27:58.900 problem with a guy like that with his
+01:28:00.430 theory is his theories of based on
+01:28:01.990 results and those results are based on
+01:28:03.910 human beings and most human beings
+01:28:05.800 there's certain people that are born
+01:28:07.180 with certain gifts like a guy like
+01:28:08.800 LeBron James is a physical talent you
+01:28:11.440 know John Jones and MMA obviously
+01:28:13.780 physical talent but there's when you
+01:28:17.200 look at someone who's super successful
+01:28:19.900 you always assume that it has to be
+01:28:22.900 because of some sort of physical gifts
+01:28:24.670 because people look at themselves and
+01:28:26.710 I'm sure this doctor this old dude
+01:28:29.560 probably had like a little gut and
+01:28:31.270 probably exactly I looked a little tiny
+01:28:33.010 arms weak shoulders and probably thought
+01:28:36.130 well there's certain people that are
+01:28:37.300 just mesomorphic and probably broke it
+01:28:39.010 down all these scientific terms right
+01:28:40.540 you know they just have a fast twitch
+01:28:43.300 muscle fibers and they'll say all this
+01:28:44.950 crazy [ __ ] that is true
+01:28:47.080 at the very highest levels of the
+01:28:49.120 winners right but it doesn't mean that
+01:28:51.190 you can't become that no it just means
+01:28:53.530 that it's too painful for most people to
+01:28:55.330 go through so very few people ever get
+01:28:57.250 there so if you look at the actual
+01:28:58.330 results he would be correct
+01:29:00.760 but he's not correct because he doesn't
+01:29:02.890 take the shovel exactly that's not the
+01:29:05.080 more the story does not some easy
+01:29:07.120 lit up streetlights right half with nice
+01:29:09.730 smooth roads right it's a difficult
+01:29:12.400 [ __ ] where you're gonna fail and
+01:29:14.200 you're gonna be in your head you could
+01:29:16.210 be saying I'm not good enough and it's
+01:29:18.430 how you get through that is how you get
+01:29:20.920 through that on a daily basis when that
+01:29:22.840 thing is say man I'm 43 I've done so
+01:29:26.650 much you start to become civilized the
+01:29:29.530 refrigerator gets full you start getting
+01:29:31.630 making money and you start I'm not
+01:29:34.390 getting cold anymore I'm retired what's
+01:29:36.910 in at forty people shouldn't be playing
+01:29:39.850 basketball or football or beating them
+01:29:42.010 up you start to believe this [ __ ] and it
+01:29:44.800 becomes in your [ __ ] mind like there's
+01:29:46.570 people who are retiring you know at
+01:29:47.920 40-something years or 37 years old at 43
+01:29:50.770 I'm still putting a hundred-mile weeks
+01:29:52.030 still doing thousands of pull-ups
+01:29:54.150 thousands of push-ups because I'm not
+01:29:56.830 allowing myself to become civilized the
+01:29:59.140 worst didn't happen to a man's become
+01:30:00.520 civilized you lose that [ __ ] fight you
+01:30:03.220 you you you lose that why the [ __ ] am i
+01:30:05.590 doing this [ __ ] I'm good you ain't good
+01:30:08.890 man you ain't never [ __ ] arrived and
+01:30:11.170 that's just my mentality you may have
+01:30:13.090 more but you'd never [ __ ] arrive you
+01:30:15.100 want to be uncommon a most uncommon
+01:30:16.690 people period uncommon amongst uncommon
+01:30:21.070 people is one of the greatest ways to
+01:30:22.540 put it that's it like if you're if
+01:30:24.640 you're like for me what got me in
+01:30:27.040 trouble with the Navy SEALs is I want to
+01:30:29.590 be one so bad so bad I fought my ass off
+01:30:33.040 yeah I saw them as uncommon people very
+01:30:36.250 uncommon but once you become a Navy SEAL
+01:30:38.800 you're all Navy SEALs so guess what
+01:30:40.450 happens your [ __ ] common again I
+01:30:42.930 wanted to be uncommon amongst uncommon
+01:30:46.360 people I want it to be the guy I don't
+01:30:48.970 care if you [ __ ] like knock if you
+01:30:50.260 understand me I didn't give a [ __ ] once
+01:30:52.180 I went through this [ __ ] journeys
+01:30:53.650 path of life you ain't got in a whole
+01:30:55.540 bunch of [ __ ] guys that don't [ __ ]
+01:30:57.370 like me I don't give a [ __ ] I'm a
+01:30:59.590 warrior
+01:31:00.579 period who's like I've been a lot more
+01:31:02.349 combat to me a Warriors not always that
+01:31:05.939 words a [ __ ] who says hey I'm
+01:31:09.070 here again today I'm here again tomorrow
+01:31:11.469 gonna be here the next day I'm 50 years
+01:31:13.689 old I'm still [ __ ] getting after it
+01:31:15.219 it's a person that puts no [ __ ] limit
+01:31:17.469 on what's possible and that's what got
+01:31:20.019 me in trouble like that's why I went to
+01:31:21.489 Ranger School as a seal that's why I try
+01:31:23.439 to go to Delta Force twice you know I
+01:31:24.989 bet I've been through all these
+01:31:26.800 different training programs cuz I was
+01:31:28.300 looking for in the military what I saw
+01:31:31.209 is in the training these people get
+01:31:34.659 their ass handed to him after they get
+01:31:36.789 out a lot of them get civilized I always
+01:31:40.419 wanted to go back in the training and I
+01:31:42.939 we were always I want to go back to war
+01:31:44.589 in the war was in that training program
+01:31:46.570 where you see guys you can quit guys who
+01:31:48.789 are brutal guys who are suffering guys
+01:31:50.320 who are you go so as a seal you don't
+01:31:52.719 volunteer for Ranger school I did I put
+01:31:55.389 in seven chicks got turned down I get
+01:31:57.309 you know got accepted I went at 28 29
+01:32:00.129 years old and they go why did you go
+01:32:03.249 because I started becoming civilized I
+01:32:05.589 started becoming complacent I I needed
+01:32:08.679 to get my [ __ ] ass kicked again and
+01:32:10.479 when you go as a seal going down to it
+01:32:12.489 you have no rank and Ranger school you
+01:32:14.530 could be a major you're just [ __ ] Joe
+01:32:16.899 Brown you're nobody and you're not
+01:32:19.629 eating you're not sleeping so I always
+01:32:21.159 would put myself I would immerse myself
+01:32:23.169 and [ __ ] like that even IRA climb the
+01:32:25.419 ladder and I intentionally fall back
+01:32:28.359 down that [ __ ] to say all right
+01:32:29.649 man getting soft dude getting soft kick
+01:32:33.879 your [ __ ] ass again and I you know
+01:32:36.219 it's kind of process did you find
+01:32:38.109 resistance from that amongst other guys
+01:32:40.059 that didn't like to make that you were
+01:32:42.789 making them uncomfortable because that
+01:32:44.169 is something that people there's a
+01:32:46.089 natural instinct that people have when
+01:32:48.070 someone's working harder than them to
+01:32:49.809 somehow another diminish that person
+01:32:51.429 well I know that a lot of guys don't
+01:32:53.589 like me for a lot of reasons and I
+01:32:55.389 realize that I am a guy that doesn't
+01:32:57.280 care if you like me or not and when
+01:32:59.979 you're an alpha male and you're against
+01:33:01.749 other alpha males and we eat our own
+01:33:04.379 alpha males eat their own now I love
+01:33:07.329 that [ __ ] let's [ __ ] go man I want to
+01:33:10.539 eat a man I'm all about that kind of
+01:33:12.489 mentality
+01:33:13.010 but I was sometimes take it to another
+01:33:15.080 level now I went part of a of a good old
+01:33:17.870 boy network I don't wanna be part I want
+01:33:19.490 to be David [ __ ] gaga for too long in
+01:33:22.130 my life and it got me in trouble for
+01:33:24.620 time I left I wanted to be accepted
+01:33:26.230 growing up
+01:33:27.650 I lied I [ __ ] did what I could for if
+01:33:30.290 you [ __ ] like UFC and I didn't I love
+01:33:33.140 it I love it man let's go [ __ ] watch
+01:33:35.300 me be my friend be my buddy
+01:33:36.980 that [ __ ] weak-ass [ __ ] I found out
+01:33:39.740 through this path of life who is David
+01:33:42.110 Gaga's Who am I so going through all I
+01:33:46.280 did it alone
+01:33:47.240 there was no [ __ ] trophy on the
+01:33:49.100 [ __ ] wall on the mantel that trophy
+01:33:50.780 is my [ __ ] brain no one helped me get
+01:33:53.210 you know I pay my [ __ ] bills no one
+01:33:54.620 did [ __ ] for me no one ran those [ __ ]
+01:33:56.270 miles lost that [ __ ] weight with the
+01:33:57.410 hood
+01:33:57.680 I suffered on my own and developed this
+01:33:59.750 man who said Who I am a very competitive
+01:34:03.140 ultra competitive do that take it what
+01:34:06.140 you want man I call that personal
+01:34:08.240 sovereignty exactly who's not a lot of
+01:34:10.730 people that have that that's me and
+01:34:12.440 there's a lot of people that change who
+01:34:14.180 they are depending upon what people want
+01:34:16.670 from them and that's that's me yeah
+01:34:18.950 that's important man most people
+01:34:20.900 struggle their whole life to find out
+01:34:22.790 who they are
+01:34:23.410 struggle their whole their whole life to
+01:34:25.580 find out what defines them what they
+01:34:27.500 actually enjoy and what they don't you
+01:34:29.060 start putting yourself in situations
+01:34:30.110 that suck you'll find yourself yeah
+01:34:33.170 you'll find it real quick that is the
+01:34:34.850 thing right and that's one of the things
+01:34:36.200 that have gotten from paying attention
+01:34:38.000 to you is that you what you're preaching
+01:34:41.540 what you're talking about is finding
+01:34:43.460 yourself through struggle it's it it's
+01:34:45.650 only way to find yourself you don't find
+01:34:47.540 yourself if you like best present and
+01:34:49.160 you [ __ ] press all the [ __ ] time what
+01:34:50.660 are you finding out if you like to swim
+01:34:53.180 that's all you want to do is swim what
+01:34:55.580 are you finding out put that in people
+01:34:58.250 always I people talk about triple down
+01:35:00.290 on your [ __ ] strengths right that's
+01:35:02.180 the [ __ ] weakest [ __ ] in the world no
+01:35:04.430 triple down on your [ __ ] weaknesses
+01:35:06.800 yeah find out something about yourself
+01:35:08.630 you right know that you're good [ __ ] you
+01:35:10.250 know the happy [ __ ] right that's why I'm
+01:35:12.110 on my Facebook page because why don't
+01:35:14.120 you talk about good times you know how
+01:35:16.160 to get you that [ __ ] [ __ ]
+01:35:18.720 you don't need a [ __ ] you don't need
+01:35:20.910 to I tell you how to get to its happy
+01:35:22.290 right that's easy [ __ ] right I want to
+01:35:24.900 tell you how you can help yourself get
+01:35:27.150 through the times that suck real life
+01:35:29.280 this is real life 90% of your life will
+01:35:32.280 suck 10% will be [ __ ] happy you may
+01:35:36.510 be lucky God have a lot of [ __ ] money
+01:35:38.250 have a great ass woman all this [ __ ]
+01:35:39.870 trust me one on one with that [ __ ]
+01:35:42.180 guy he's missing something
+01:35:43.770 his life still sucks that he hasn't
+01:35:45.420 faced something that bothered him his
+01:35:47.310 whole [ __ ] life something is still
+01:35:49.320 eating that [ __ ] up almost
+01:35:51.390 everybody everybody eating you the [ __ ]
+01:35:53.910 up but maybe you found a good way how I
+01:35:56.220 did growing up on how to ignore that
+01:35:58.560 voice that's saying you ain't facing
+01:36:01.290 some [ __ ] period man I'm not special I
+01:36:04.470 just stopped listening I I listen to
+01:36:06.330 that voice it was why I talk so [ __ ]
+01:36:09.420 aggressive people said man do you
+01:36:11.250 believe in God you cuss so much when I
+01:36:14.340 say [ __ ] it's a is letting you know what
+01:36:18.480 I'm thinking if I try to make it all
+01:36:20.760 pretty and [ __ ] that's not what my life
+01:36:22.200 was it was a violent violent struggle
+01:36:26.270 daily to get where I'm at today I'm not
+01:36:30.150 gonna water it down like a watered down
+01:36:32.040 [ __ ] wasn't fun ain't fun today
+01:36:34.860 I'm happy don't you think that your
+01:36:39.090 happiness is probably elevated by the
+01:36:42.830 amount of pain that you've gone through
+01:36:45.060 a hundred percent so the amount of
+01:36:46.740 suffering that you understand the amount
+01:36:48.420 of pain that you've gone through makes
+01:36:50.430 you appreciate the happiness and the
+01:36:52.860 beautiful moments with much more
+01:36:54.780 intensity that's what weak people miss
+01:36:56.550 about my story weak people hear this
+01:36:59.160 soft kid I'm a guy he must be miserable
+01:37:00.960 oh my god what the hell is wrong with
+01:37:02.340 them you're missing the [ __ ] story
+01:37:04.340 you're not listening to the story man
+01:37:07.370 look what I overcame if that doesn't put
+01:37:11.370 some badge of honor tattooed in your
+01:37:13.500 [ __ ] brain for the rest of your life
+01:37:14.910 you can die today talking to Joe Rogan
+01:37:17.630 you're missing the story man am I happy
+01:37:21.000 what the [ __ ] do you think don't miss it
+01:37:23.520 don't misunderstand the past and wish I
+01:37:25.440 speak for not being intensely happy
+01:37:27.960 happiest person in the world but I'm not
+01:37:31.260 done
+01:37:32.489 so not gonna speak to you like oh man
+01:37:34.499 everything is great no I have a lot more
+01:37:36.689 [ __ ] to do a lot more [ __ ] to do well
+01:37:40.199 this is in the same use of the word that
+01:37:42.119 you used the Warriors mentality the
+01:37:44.579 Warriors life right this is this is the
+01:37:47.340 way that you can keep balanced and sane
+01:37:50.099 right and and keep a good grip on who
+01:37:53.760 you are period and like there's a quote
+01:37:56.309 that was said I don't know who said it
+01:37:57.719 but was a great quote this guy said
+01:38:00.650 going into combat going into war out of
+01:38:03.659 the hundred men that going to war
+01:38:05.400 tension you [ __ ] be there eighty of
+01:38:08.760 them are this target's ten do most of or
+01:38:12.449 nine do most of fighting one is a
+01:38:14.909 warrior and it's a true quote to life I
+01:38:19.530 saw it going through train I saw it
+01:38:21.719 everywhere I went
+01:38:22.499 there's so many people who just show up
+01:38:24.479 to life that shouldn't even [ __ ] be
+01:38:27.059 around and there's a few people who do
+01:38:29.670 all the work I wanted to be part of that
+01:38:31.260 nine and I'm working towards being that
+01:38:34.380 one and that's how I live my life now
+01:38:37.409 what are you doing with your life these
+01:38:38.639 days right now I keep the same I'm very
+01:38:42.090 routine I get every morning I run I go
+01:38:45.269 to the gym and then at nighttime I
+01:38:47.130 stretch out I am a mom just trying to
+01:38:49.889 develop a business costing me a lot of
+01:38:52.050 money trying to do that I'm just getting
+01:38:53.400 out I'm an introvert so I never want to
+01:38:56.909 get on social media I'm not big on that
+01:38:59.249 I'm big on being with yourself
+01:39:02.969 I believe all these [ __ ] cameras and
+01:39:06.570 phones and [ __ ] it takes you away from
+01:39:08.280 the most powerful thing in the world
+01:39:10.469 which is your [ __ ] mind so I try hard
+01:39:13.409 to continue to grow that I'm trying to
+01:39:15.239 break a record again I'm trying to cross
+01:39:17.369 Death Valley as fast as possible top of
+01:39:19.260 Mount Whitney and I'm constantly trying
+01:39:21.989 to put goals and for me but the biggest
+01:39:23.219 thing is I'm trying to find more of
+01:39:24.389 myself and the only way I can find more
+01:39:26.670 is to silence the world out as much as I
+01:39:28.979 can because it's getting busier every
+01:39:30.869 day it's getting faster and the faster
+01:39:33.689 it gets the more you are missing who the
+01:39:36.360 [ __ ] you are so I trapped my own mind a
+01:39:39.269 lot and said look man I put my phone
+01:39:40.920 away I'll put [ __ ] away and I go dark I
+01:39:43.050 go dark a lot and it's
+01:39:45.150 because I have to find out I'm on a
+01:39:46.830 journey of life and we all have a
+01:39:48.840 different journey and I want to be in my
+01:39:50.909 [ __ ] pine box and I believe your
+01:39:53.070 spirit lives forever has too it's too
+01:39:54.719 [ __ ] powerful no way in hell that
+01:39:57.000 thing that's dies when you die I want to
+01:39:59.760 be able to look back on my life and I'm
+01:40:01.020 all dead and be so [ __ ] proud of
+01:40:02.460 myself forever this is all temporary
+01:40:05.520 [ __ ] to me I want to be forever proud of
+01:40:08.159 who I was as a man and change who I used
+01:40:11.550 to be the liar the insecure guy the guy
+01:40:14.699 who can whatever I want to be proud but
+01:40:16.679 if I died now if I die at 84 diet 9800 I
+01:40:19.110 want to look at myself as a proud of
+01:40:20.790 myself don't you think that also like we
+01:40:23.010 were saying that because you've gone
+01:40:25.350 through so much struggle you appreciate
+01:40:27.330 happiness true happiness do you think
+01:40:29.640 that you appreciate discipline because
+01:40:31.260 you weren't discipline do you think you
+01:40:32.790 appreciate the hard work you put in
+01:40:34.590 because you used to be weak yes I
+01:40:36.300 appreciate self-discipline yes I never
+01:40:38.580 had a crazy thing about what you know
+01:40:40.409 you say that I have a [ __ ] can
+01:40:42.870 wake me up at 3 o'clock in the [ __ ]
+01:40:45.090 morning and say hey you gotta get your
+01:40:46.110 [ __ ] in I had no trainer I have a
+01:40:48.540 nutritionist it was the self-discipline
+01:40:51.570 that I had to survive not survive I was
+01:40:54.090 weak to thrive no one say man you're 297
+01:40:59.070 pounds man
+01:41:00.570 I wanna help you out I mean you're
+01:41:03.270 [ __ ] you're not smart I'm gonna help
+01:41:06.239 you out I had to work at all this [ __ ] I
+01:41:09.570 had to overcome and and it self
+01:41:14.880 discipline is everything if you don't
+01:41:16.530 have it I don't look at you right now I
+01:41:18.210 know you're capable of more it's not
+01:41:20.280 discipline so much for me it's all on
+01:41:22.920 you it's all on you the self part it was
+01:41:27.000 big we need someone to hold people
+01:41:29.670 accountable [ __ ] that [ __ ] man
+01:41:32.130 [ __ ] that [ __ ] we we count on people too
+01:41:35.370 much to get us through [ __ ] and we look
+01:41:38.610 to our right we look to our left we're
+01:41:39.960 looking for help and if you can build
+01:41:41.820 that self you can build that total
+01:41:44.280 accountability in oneself and it's not
+01:41:47.370 about being selfish I'm trying to create
+01:41:49.650 a better me so hopefully people who are
+01:41:51.900 hearing this are taking it the right way
+01:41:53.280 can say I can run a mile anybody run a
+01:41:57.000 205 [ __ ] mile doing for
+01:41:58.830 Venis it ain't bout all that [ __ ] she
+01:42:00.780 doesn't matter I want you to see how
+01:42:03.180 [ __ ] far you can go and that's all
+01:42:05.880 it's about yourself and that's where it
+01:42:08.610 all comes from Willis and I guarantee
+01:42:10.170 you've already done that
+01:42:11.130 what you experienced from watching that
+01:42:13.320 television show and with what got you
+01:42:15.810 out the door what got you to sort of
+01:42:18.450 take the first steps to change your life
+01:42:20.280 will you experience by watching rocky
+01:42:22.380 what you experience of inspiration those
+01:42:26.010 are critical for people they need to
+01:42:27.600 know that someone's done something that
+01:42:29.040 someone's done something that's greater
+01:42:30.690 than they what they could imagine
+01:42:32.040 themselves doing and they want to take a
+01:42:33.720 step towards trying to be better that
+01:42:37.520 inspiration is gigantic and sometimes it
+01:42:40.050 comes across as corny you know people
+01:42:42.150 read it too much of it online it becomes
+01:42:45.240 it drowns out you lose that the meaning
+01:42:48.510 gets lost I mean there's and there's a
+01:42:50.310 lot of posers because a lot of people
+01:42:52.110 are out there that are there pretending
+01:42:54.450 that they're trying to offer up
+01:42:55.920 inspiration or a true honest account of
+01:42:58.230 their experiences but really what
+01:43:00.150 they're trying to do is say something
+01:43:01.440 that's gonna get likes right you know
+01:43:03.990 they're trying to say things that they
+01:43:05.490 think people are gonna go yeah double
+01:43:07.560 high five right you know there's a thing
+01:43:09.240 that people are doing when they're just
+01:43:11.220 trying to just get social cred I said
+01:43:14.700 yes social media is man I'm gonna paint
+01:43:17.190 you the picture of my fake life right
+01:43:19.020 right right I paint you a picture of my
+01:43:21.180 [ __ ] real life yeah period like it or
+01:43:23.550 not man but that brought that real life
+01:43:25.770 is fuel for people right it's fuel for
+01:43:28.560 me I mean I died I love that [ __ ] I live
+01:43:31.350 off of it there's a lot of people that I
+01:43:32.760 follow online and you're one of them
+01:43:34.590 that I can get something out of that I
+01:43:37.770 could watch a short clip of you talking
+01:43:39.690 I'm sure clips of this podcast people
+01:43:42.060 gonna play these clips and go for
+01:43:43.410 [ __ ] crazy runs afterwards right well
+01:43:45.390 hope so
+01:43:45.780 [ __ ] yeah uh-huh you don't even have to
+01:43:47.820 hope it's gonna happen that's good
+01:43:49.620 that's good what is this business you're
+01:43:51.390 doing well it's my own Goggins LLC
+01:43:54.830 basically I I'm investing in myself I'm
+01:43:58.950 invested in myself and I hope that this
+01:44:01.230 story is can can change somebody's life
+01:44:05.570 not to be me cuz they ain't bout me and
+01:44:08.100 I and I I try to be as real as I can
+01:44:10.860 because we're all [ __ ]
+01:44:12.660 for in this world we're all hurting and
+01:44:14.370 I try to take away all titles you want
+01:44:16.860 to give me that you know that I did not
+01:44:18.600 come from that [ __ ] that's right to be
+01:44:20.430 so authentic and so real about my own
+01:44:22.800 insecurities my own faults my this being
+01:44:24.840 a [ __ ] up person I'm not the best at
+01:44:27.420 anything I'm not I'm not gifted
+01:44:29.760 I'm just driven and it's all about
+01:44:32.700 trying to share that message with people
+01:44:34.710 this is all about you know I speak to a
+01:44:37.620 lot of people and that's what that's
+01:44:40.200 what I do now and how are you doing it
+01:44:41.580 as a business I do something more of a
+01:44:43.920 tional speaking but you know right now
+01:44:45.810 I'm not really try making a lot of
+01:44:47.250 [ __ ] money I'm just trying to build
+01:44:48.960 the brand I was authentic as possible
+01:44:50.400 because I don't want to build it too
+01:44:52.800 fast because my biggest fear in life is
+01:44:55.080 people can rewrite through a
+01:44:56.790 [ __ ] that's not real I do it all
+01:44:59.370 the time
+01:44:59.700 like a lot of people have these great
+01:45:01.440 quotes and they and they mass produce
+01:45:03.570 I can't mass-produce something man Brian
+01:45:07.170 and they and they had these great quotes
+01:45:08.760 and [ __ ] but are you living that
+01:45:10.050 [ __ ]
+01:45:10.680 which you dis quoted in how powerful it
+01:45:13.770 may sound are you getting up every
+01:45:16.140 [ __ ] morning and I'm not working out
+01:45:17.550 whatever are you really getting the [ __ ]
+01:45:19.560 after are you just talking to motivate
+01:45:21.600 people right and I don't want to be that
+01:45:23.790 guy who are you talking to pretend that
+01:45:25.290 you're exactly after and I people make
+01:45:27.150 this big money over here the side which
+01:45:28.860 Robin made a lot and they they talk this
+01:45:31.860 [ __ ] and they're off this until it's
+01:45:34.920 gone right and all Finnick a tall man
+01:45:36.930 you know it's all this [ __ ] right and I
+01:45:39.180 read it on my mask and [ __ ] right
+01:45:41.790 [ __ ] man [ __ ] wake up get after
+01:45:44.220 it live what you're saying and then it
+01:45:46.110 comes people can see when I talk the
+01:45:48.930 reason I talk so [ __ ] just passionate
+01:45:51.420 cuz I'm reliving my [ __ ] life I'm
+01:45:54.930 reliving this morning when I got up I
+01:45:56.790 want to do that [ __ ] I'm reliving
+01:45:58.350 everything I did it and I can't speak to
+01:46:00.330 you like all calm and [ __ ] [ __ ] sucks it
+01:46:03.720 sucks man so whenever I start talking
+01:46:05.040 about like after this podcast you'll see
+01:46:06.840 man
+01:46:07.200 god you're so calm right now what the
+01:46:09.750 [ __ ] is wrong with you I'm not going
+01:46:12.000 back through that [ __ ] man I'm not I'm
+01:46:13.410 not going back through the the suffering
+01:46:15.360 and [ __ ] that it took to become Who I am
+01:46:16.890 today some story so I built this brand
+01:46:18.990 to the point where I can slowly
+01:46:20.700 hopefully make people from motivated to
+01:46:23.160 driven because motivation is crap
+01:46:25.080 [ __ ] people right now maybe listen to
+01:46:27.960 this [ __ ] they'll be motivated to go run
+01:46:29.460 if it's closed somewhere where they're
+01:46:31.380 at a lot of my first we'll shut that
+01:46:32.940 door go back inside that's motivation it
+01:46:35.340 comes and go as how you feel if you and
+01:46:38.880 your wife are good if you and your kids
+01:46:40.380 are good if you're good at work you're
+01:46:42.540 motivated
+01:46:43.440 I like the [ __ ] whose life is
+01:46:45.630 imploded ain't got [ __ ] in life and says
+01:46:49.500 I still got [ __ ] good after today man
+01:46:52.500 it's what it's about so that's when you
+01:46:54.480 move from motivation to driven to
+01:46:56.220 obsessed and I want people to realize
+01:46:58.380 once you get to this portion of over
+01:47:00.270 here the driven obsessed part your
+01:47:02.370 stoppable this commitment that you have
+01:47:04.530 to authenticity is one of the reasons
+01:47:06.660 why people are connected to what you've
+01:47:08.700 met your messages that's one of the
+01:47:10.800 reasons why what you're saying you don't
+01:47:12.330 want to grow it too fast you don't want
+01:47:14.010 it to be [ __ ] you're terrified of
+01:47:15.540 that thing just like we were talking
+01:47:16.980 about with weak people you terrified a
+01:47:18.630 scene that weakness in yourself right
+01:47:20.490 you know we all see that we've all seen
+01:47:23.340 motivational things that are [ __ ]
+01:47:25.110 we've all talked to people that are
+01:47:26.730 talking and you realize there's nothing
+01:47:28.680 really that they're connected to they're
+01:47:31.050 not really connected to their words
+01:47:32.160 their words just a bunch of words
+01:47:33.510 they've pieced together because they
+01:47:35.190 sound like something that someone who's
+01:47:36.990 you know enlightened on the subject
+01:47:39.360 would say right yeah it doesn't it
+01:47:42.060 doesn't it doesn't connect at all so
+01:47:44.340 your struggle now is to try to figure
+01:47:46.560 out how to stay you and get the message
+01:47:49.350 out but still be fully connected to that
+01:47:51.810 message right that's you know it's not
+01:47:53.970 so much a struggle because I'm not
+01:47:56.040 really about I'm not driven by the
+01:48:01.890 business I'm not I'm not doing by trying
+01:48:03.360 to be I I make a very small salary from
+01:48:06.330 being retired from the military that's
+01:48:08.040 all I need so I'm not fast - I'm a
+01:48:11.280 minimalist [ __ ]
+01:48:12.690 give me a backpack of [ __ ] ground and
+01:48:15.270 sleep on and a pull-up bar and a [ __ ]
+01:48:17.820 some running shoes and a Subway sandwich
+01:48:20.190 with some [ __ ] and I'm [ __ ] straight
+01:48:21.830 so it's um I believe in patience I'm a
+01:48:26.370 patient dude I can watch the piece of
+01:48:28.680 grass grow for 20 years because I know
+01:48:31.140 that this is how you get somewhere in
+01:48:34.800 life by being that monk-like mentality
+01:48:38.820 and being able to watch something grow
+01:48:40.920 very calmly patiently and that's all I'm
+01:48:43.860 doing right now about monies and about
+01:48:45.510 people knowing me I'll keep you like me
+01:48:46.770 whoever wants to hear this is out there
+01:48:49.230 so so your your goal is to grow this
+01:48:52.650 right slowly very slowly and your goal
+01:48:56.400 is to grow this in order to impact
+01:48:58.560 people period that's it it's not about
+01:49:01.050 me what do you get out of impacting
+01:49:04.380 people it's a good question I don't I
+01:49:08.670 don't get anything out of it I'm a tool
+01:49:11.010 but you must get something there must be
+01:49:13.320 personal satisfaction must be a
+01:49:15.180 connection to those people there must be
+01:49:17.550 it must be enriching to you it's hard to
+01:49:19.410 connect with people because there's
+01:49:20.670 quite a few now that are coming in right
+01:49:22.880 it's my duty it's my duty to share my
+01:49:27.960 it's kind like it's somebody who
+01:49:30.140 discovered a new earth you know and
+01:49:33.930 discover the people on it that in the
+01:49:35.640 water source and the food source I
+01:49:37.370 discovered a whole nother part of your
+01:49:40.560 [ __ ] brain that a lot of people don't
+01:49:43.050 even know about it's my job by being the
+01:49:46.710 [ __ ] on this journey and being a
+01:49:47.820 discovery person being the person that
+01:49:49.620 maybe I discovered this part I
+01:49:52.020 discovered a very important part that I
+01:49:53.820 haven't met many people that have
+01:49:55.890 discovered this part I'm sure there's a
+01:49:58.050 lot out there but it's my job now take
+01:50:00.930 these weak people in the category that I
+01:50:02.910 was in and say uh-uh
+01:50:05.340 stop reading the [ __ ] stop listening
+01:50:07.890 to the [ __ ] and if my story of
+01:50:11.370 success can impact somebody it is my job
+01:50:13.410 is my duty to share this too as much as
+01:50:15.900 I'm not really fond of it I I'm the kind
+01:50:19.170 of guy that wants to sit in the [ __ ]
+01:50:20.100 room and just be me just be me alone by
+01:50:24.150 myself that's who I am I have to get
+01:50:27.810 uncomfortable and tell people all this
+01:50:30.180 [ __ ] you think it feels good tell me
+01:50:31.710 about it I'm a fourth grade reading
+01:50:33.450 level in high school I stuttered
+01:50:35.580 I lied to people to be their [ __ ]
+01:50:37.710 friends I didn't feel good it doesn't
+01:50:40.530 feel good at all
+01:50:41.430 but maybe someone's doing the same [ __ ]
+01:50:44.490 and maybe they can realize wow that
+01:50:47.070 [ __ ] was a piece of [ __ ] and he
+01:50:49.950 [ __ ] now is a Navy SEAL
+01:50:52.710 tired guy and Rosie's miles and was 297
+01:50:55.950 pounds and pathetic [ __ ] and Wow
+01:50:59.250 if he would say why are you talking so
+01:51:00.870 it's the [ __ ] truth I was a [ __ ]
+01:51:03.840 pathetic [ __ ] man people cannot
+01:51:06.090 say that to themselves it's we have to
+01:51:08.190 choose these great [ __ ] magical words
+01:51:10.440 that that makes that make people feel
+01:51:12.990 good tell yourself the truth if
+01:51:15.660 something - cause you're [ __ ] fat
+01:51:17.660 they may be bullying you but you might
+01:51:20.220 be [ __ ] fat someone calls you dumb
+01:51:23.310 it's me but you might be [ __ ] dumb
+01:51:26.960 its life man take it for what it's worth
+01:51:29.520 and change it and that terrible feeling
+01:51:32.370 when someone does tell you they have fat
+01:51:34.380 you can use that as fuel period and
+01:51:37.740 that's all this is about and where it
+01:51:40.410 goes if it goes somewhere and whatever
+01:51:43.920 you know I don't give a [ __ ]
+01:51:46.380 well you said something that I think of
+01:51:48.210 when I run and it's that most people
+01:51:50.400 quit at 40% I said that's not 40% rule
+01:51:52.980 man I love that about 40% rule man and I
+01:51:55.740 am I really developed that through my
+01:51:58.470 heart surgeries and I developed that
+01:51:59.940 through that first hunch at my run is I
+01:52:02.310 thought I had given 100% the house on
+01:52:04.800 that chair at Mile 70 I was [ __ ] up I
+01:52:06.720 thought I'd given 100% and to go that
+01:52:09.390 last I go man
+01:52:10.470 there had this I wasn't even near 100%
+01:52:14.880 so I came up with this thing called the
+01:52:17.130 40% rule it's basically where you it's
+01:52:20.490 like a car you put a governor on a car
+01:52:22.770 and they said the car can go 130 that
+01:52:25.710 governor stops the car at 91
+01:52:27.450 and you're driving thinking man I want
+01:52:29.250 to [ __ ] Florida but I can't go I
+01:52:30.510 can't go any faster
+01:52:31.710 we do it to a brain we put a governor
+01:52:33.840 brain second we feel pain discomfort
+01:52:36.500 suffering all those words that we hate
+01:52:38.580 to say cuz we in this happy peaceful
+01:52:40.230 world we live in now we stop we slow
+01:52:44.310 down and if you can get through these
+01:52:46.620 different barriers and gain five percent
+01:52:48.600 2% 3% that 40% becomes 60 that's 60 per
+01:52:52.860 kid kind of 70 and 80 and 90 and then
+01:52:55.680 you're hopefully one day near a hundred
+01:52:57.720 I don't I don't know many people who
+01:52:59.040 probably add a hundred I mean we think
+01:53:00.600 we're there but there's so much more it
+01:53:01.890 isn't a hundred at death's door though
+01:53:03.850 I love that I think it's true I think
+01:53:06.640 that's 100% true I think when you were
+01:53:08.830 laying in that tub you'd knocked on a
+01:53:10.210 door that is that is a hundred percent
+01:53:12.340 true no one has ever if that is our
+01:53:14.530 position I didn't give a hundred percent
+01:53:16.450 in that 101 mile run I did for the first
+01:53:18.940 time so that's the scary thing that's
+01:53:21.910 the scariest thing in the world I didn't
+01:53:23.500 die you probably gave 99.99999 man dude
+01:53:34.210 I don't know how to end this any better
+01:53:35.500 than that so let's just wrap this up if
+01:53:38.320 people want to find your stuff
+01:53:40.570 what's the best place to go and look for
+01:53:43.270 it
+01:53:43.600 I'm just at David Goggins man social
+01:53:45.820 media or Instagram Facebook I don't
+01:53:48.490 tweak that much stuff out because I'm I
+01:53:50.380 write these I write messages and I
+01:53:53.860 always link that you know on Twitter to
+01:53:56.140 my Facebook and Instagram but it's just
+01:53:58.240 at David Goggins it was an honor and
+01:54:00.310 privilege thanks like your lunch man I
+01:54:02.080 really really really appreciate it thank
+01:54:03.610 you Dave and Goggins ladies and
+01:54:04.900 gentlemen go after it you [ __ ]
+01:54:07.660 come on
+01:54:10.520 if that doesn't fire me
+01:54:12.050 [Applause]
+01:54:12.810 [Music]
+01:54:18.630 [Music]
